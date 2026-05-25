@@ -22192,7 +22192,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpld4wvn_0",
+        "id": "s_mpleifh3_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -22200,7 +22200,7 @@
         "enabled": true
       },
       {
-        "id": "s_mpld4wvn_1",
+        "id": "s_mpleifh3_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -22215,7 +22215,7 @@
     "lastPublishedAt": "2026-05-25T14:50:42.162Z",
     "lastPublishedSha": "9087f725c5fe0dc01f174995e9fce82524f1fa2a",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/9087f725c5fe0dc01f174995e9fce82524f1fa2a",
-    "lastFetchedAt": "2026-05-25T15:30:40.396Z",
+    "lastFetchedAt": "2026-05-25T16:10:01.629Z",
     "lastFetchedSha": "d553e5b3e9dfbbfc8915f9f180a66684a18988a2",
     "lastMergeStats": {
       "tabs": 0,
@@ -22244,7 +22244,7 @@
   "lastGithubFetch": "2026-05-25T15:33:33.958Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T15:46:32.796Z",
+    "publishedAt": "2026-05-25T16:11:09.333Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -22459,7 +22459,7 @@
     },
     {
       "id": "ly_4hdhy2t",
-      "name": "[EDG] GDS 26 - ~100um deep etch for edge couplers",
+      "name": "~100um deep etch for edge couplers",
       "layer": 26,
       "datatype": 0,
       "description": "[EDG] GDS 26 - ~100um deep etch for edge couplers",
@@ -22467,7 +22467,7 @@
     },
     {
       "id": "ly_6s50feh",
-      "name": "[FIL] GDS 39 – Heater filament",
+      "name": " Heater filament",
       "layer": 39,
       "datatype": 0,
       "description": "[FIL] GDS 39 – Heater filament",
@@ -22475,7 +22475,7 @@
     },
     {
       "id": "ly_gzu0jvv",
-      "name": "[LSH] GDS 40 – Light shield",
+      "name": "Light shield",
       "layer": 40,
       "datatype": 0,
       "description": "[LSH] GDS 40 – Light shield",
@@ -22483,7 +22483,7 @@
     },
     {
       "id": "ly_we74c5t",
-      "name": "[ISO] GDS 46 - Heater isolation trench",
+      "name": " Heater isolation trench",
       "layer": 46,
       "datatype": 0,
       "description": "[ISO] GDS 46 - Heater isolation trench",
@@ -22491,7 +22491,7 @@
     },
     {
       "id": "ly_epw05ms",
-      "name": "[CON] GDS 47 - Contact pad opening",
+      "name": " Contact pad opening",
       "layer": 47,
       "datatype": 0,
       "description": "[CON] GDS 47 - Contact pad opening",
@@ -22499,7 +22499,7 @@
     },
     {
       "id": "ly_4oadbcz",
-      "name": "[DEE] GDS 50 - Backside deep etch",
+      "name": " Backside deep etch",
       "layer": 50,
       "datatype": 0,
       "description": "[DEE] GDS 50 - Backside deep etch",
@@ -22507,7 +22507,7 @@
     },
     {
       "id": "ly_jqnkne5",
-      "name": "[APO] GDS 60 - E-beam grating coupler layer for apodised grating couplers",
+      "name": " E-beam grating coupler layer for apodised grating couplers",
       "layer": 60,
       "datatype": 0,
       "description": "[APO] GDS 60 - E-beam grating coupler layer for apodised grating couplers",
@@ -22515,7 +22515,7 @@
     },
     {
       "id": "ly_wisvowm",
-      "name": "[TMG] GDS 62 - Silicon etch  (TM gratings)",
+      "name": "Silicon etch  (TM gratings)",
       "layer": 62,
       "datatype": 0,
       "description": "[TMG] GDS 62 - Silicon etch  (TM gratings)",
@@ -22523,7 +22523,7 @@
     },
     {
       "id": "ly_516sohz",
-      "name": "[BLE] GDS 98 - Cleaving bleed area",
+      "name": "Cleaving bleed area",
       "layer": 98,
       "datatype": 0,
       "description": "[BLE] GDS 98 - Cleaving bleed area",
@@ -22531,7 +22531,7 @@
     },
     {
       "id": "ly_35w6mh2",
-      "name": "[OUT] GDS 99 - Cell outline",
+      "name": "Cell outline",
       "layer": 99,
       "datatype": 0,
       "description": "[OUT] GDS 99 - Cell outline",
