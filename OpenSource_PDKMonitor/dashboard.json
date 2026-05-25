@@ -22446,7 +22446,7 @@
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "OpenSource_PDKMonitor/dashboard.json",
-        "enabled": true
+        "enabled": false
       },
       {
         "id": "s_mpl6jlx5_1",
@@ -22462,16 +22462,16 @@
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "OpenSource_PDKMonitor/dashboard_26_mqy.json",
-        "enabled": true
+        "enabled": false
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
-    "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-25T12:39:10.830Z",
-    "lastPublishedSha": "7d51fcf7938c2be0a1a5fd2c5be36f5755e5ec13",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/7d51fcf7938c2be0a1a5fd2c5be36f5755e5ec13",
+    "path": "users",
+    "lastPublishedAt": "2026-05-25T12:41:02.811Z",
+    "lastPublishedSha": "3a9bdf4f935700af93ec6600f722905c090c8ae7",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/3a9bdf4f935700af93ec6600f722905c090c8ae7",
     "lastFetchedAt": "2026-05-25T12:40:27.172Z",
     "lastFetchedSha": "a5cd8ad186237f08085263cc3937d2d1444c1159",
     "lastMergeStats": {
@@ -22501,7 +22501,7 @@
   "lastGithubFetch": "2026-05-25T12:35:56.969Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T12:41:02.811Z",
+    "publishedAt": "2026-05-25T12:42:29.344Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
