@@ -219,13 +219,7 @@
                   "description": ""
                 }
               ],
-              "testGroups": [
-                {
-                  "id": "tg_fi72pl7",
-                  "name": "bilge 2 test data",
-                  "tests": []
-                }
-              ],
+              "testGroups": [],
               "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
@@ -376,13 +370,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -407,13 +395,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -438,13 +420,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -469,13 +445,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -525,13 +495,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -556,13 +520,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -587,13 +545,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -618,13 +570,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -649,13 +595,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -705,13 +645,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -736,13 +670,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -767,13 +695,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -798,13 +720,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -829,13 +745,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -885,13 +795,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -916,13 +820,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -947,13 +845,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -978,13 +870,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -1009,13 +895,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             },
@@ -1065,13 +945,7 @@
                 }
               ],
               "testGroups": [],
-              "smatrixGroups": [
-                {
-                  "id": "sg_files",
-                  "name": "Files",
-                  "datasets": []
-                }
-              ],
+              "smatrixGroups": [],
               "fabTabs": [],
               "_contribOnly": true
             }
@@ -1105,7 +979,7 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-25T23:18:31.711Z",
+    "publishedAt": "2026-05-25T23:27:40.613Z",
     "publisherIdentity": "CS_Bilge",
     "publisherLabel": "CS_Bilge",
     "publisherRole": "user-admin",
@@ -1114,10 +988,8 @@
     "bbCount": 30,
     "groupCount": 1,
     "tabCount": 1,
-    "fileCount": 88,
+    "fileCount": 32,
     "sliceFor": "CS_Bilge",
-    "termsVersion": "1.1.0",
-    "nuclearStripped": true,
-    "nuclearNote": "Second-pass strip: even after removing binaries, the payload was still over the safe limit. Test/smatrix/fab folder contents were emptied, scripts/documents reduced to filenames. Adopters: run a per-platform GitHub sync to repopulate."
+    "termsVersion": "1.1.0"
   }
 }
