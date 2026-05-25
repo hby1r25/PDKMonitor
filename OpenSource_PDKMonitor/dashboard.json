@@ -12391,134 +12391,7 @@
               "files": [],
               "scripts": [],
               "datasets": [],
-              "testGroups": [
-                {
-                  "id": "tg_cio03dr",
-                  "name": "mpwxx",
-                  "tests": [
-                    {
-                      "id": "t_jjg70j1",
-                      "name": "WaferMPW41_slot11_thinresist_strip_Chip1_WG2-2026-05-24",
-                      "filename": "WaferMPW41_slot11_thinresist_strip_Chip1_WG2-2026-05-24.csv",
-                      "kind": "csv",
-                      "size": 247268,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "https://github.com/AEmreKaplan/",
-                      "added": "2026-05-25T07:36:50.717Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
-                  "collapsed": false
-                },
-                {
-                  "id": "tg_1cqh74o",
-                  "name": "bilge test",
-                  "tests": [
-                    {
-                      "id": "t_1csbr1i",
-                      "name": "dashboard (1)",
-                      "filename": "dashboard (1).json",
-                      "kind": "json",
-                      "size": 1328279,
-                      "parsed": {
-                        "sweep": {
-                          "name": "statuses",
-                          "values": [
-                            null,
-                            null,
-                            null,
-                            null
-                          ]
-                        },
-                        "traces": [
-                          {
-                            "name": "categories",
-                            "values": [
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null
-                            ]
-                          },
-                          {
-                            "name": "bbTypes",
-                            "values": [
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null
-                            ]
-                          },
-                          {
-                            "name": "tabs",
-                            "values": [
-                              null
-                            ]
-                          },
-                          {
-                            "name": "contributors",
-                            "values": []
-                          }
-                        ]
-                      },
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T09:39:59.114Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true
-                    },
-                    {
-                      "id": "t_y1kqbsf",
-                      "name": "WaferMPW41_slot11_thinresist_strip_Chip1_WG1-2026-05-24",
-                      "filename": "WaferMPW41_slot11_thinresist_strip_Chip1_WG1-2026-05-24.csv",
-                      "kind": "csv",
-                      "size": 256847,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T10:34:34.094Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ]
-                }
-              ],
+              "testGroups": [],
               "documents": [
                 {
                   "id": "d_zv01avp",
@@ -12585,7 +12458,9 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsContent": ""
             },
             {
               "id": "e_j50vobe",
@@ -12642,7 +12517,9 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsContent": ""
             },
             {
               "id": "e_miu7hij",
@@ -12694,133 +12571,14 @@
               "customSketchUrl": "",
               "customSketchName": "",
               "layoutScaleUmPerPx": 0,
-              "subBlocks": [
-                {
-                  "id": "e_apwja2q",
-                  "name": "SOI220nm_1550nm_TE_Defect_Detector v2",
-                  "status": "available",
-                  "owner": "admin",
-                  "description": "",
-                  "githubUrl": "",
-                  "kind": "passive",
-                  "bbType": "waveguide",
-                  "dimensionsOn": true,
-                  "params": {
-                    "width_nm": 500,
-                    "length_um": 100,
-                    "thickness_nm": 220
-                  },
-                  "files": [],
-                  "scripts": [],
-                  "datasets": [],
-                  "testGroups": [
-                    {
-                      "id": "tg_v64enml",
-                      "name": "mwww",
-                      "tests": [
-                        {
-                          "id": "t_4bcr9so",
-                          "name": "dashboard (1)",
-                          "filename": "dashboard (1).json",
-                          "kind": "json",
-                          "size": 1328279,
-                          "parsed": {
-                            "sweep": {
-                              "name": "statuses",
-                              "values": [
-                                null,
-                                null,
-                                null,
-                                null
-                              ]
-                            },
-                            "traces": [
-                              {
-                                "name": "categories",
-                                "values": [
-                                  null,
-                                  null,
-                                  null,
-                                  null,
-                                  null,
-                                  null,
-                                  null,
-                                  null
-                                ]
-                              },
-                              {
-                                "name": "bbTypes",
-                                "values": [
-                                  null,
-                                  null,
-                                  null,
-                                  null,
-                                  null,
-                                  null,
-                                  null,
-                                  null,
-                                  null,
-                                  null,
-                                  null,
-                                  null,
-                                  null
-                                ]
-                              },
-                              {
-                                "name": "tabs",
-                                "values": [
-                                  null
-                                ]
-                              },
-                              {
-                                "name": "contributors",
-                                "values": []
-                              }
-                            ]
-                          },
-                          "imageUrl": null,
-                          "metadata": {
-                            "device_id": "",
-                            "date": "2026-05-25",
-                            "instrument": "",
-                            "conditions": "",
-                            "notes": ""
-                          },
-                          "who": "https://github.com/AEmreKaplan/",
-                          "added": "2026-05-25T07:44:10.578Z",
-                          "updated": "2026-05-25",
-                          "_stripped": true
-                        }
-                      ],
-                      "collapsed": false
-                    }
-                  ],
-                  "subBlocks": [],
-                  "layoutSvg": "",
-                  "gdsName": "",
-                  "gdsSize": 0,
-                  "gdsContent": "",
-                  "updated": "2026-05-25",
-                  "plannedReleaseDate": "",
-                  "smatrixGroups": [],
-                  "customSketchUrl": "",
-                  "customSketchName": "",
-                  "documents": [],
-                  "layoutScaleUmPerPx": 0,
-                  "expanded": false,
-                  "fetchHistory": [],
-                  "edaTools": [],
-                  "edaLinks": [],
-                  "cdi": {},
-                  "trl": null,
-                  "fabTabs": []
-                }
-              ],
+              "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9o9pouy",
@@ -12832,92 +12590,7 @@
               "files": [],
               "scripts": [],
               "datasets": [],
-              "testGroups": [
-                {
-                  "id": "tg_xx45kmo",
-                  "name": "bilge test",
-                  "tests": [
-                    {
-                      "id": "t_qr0d7of",
-                      "name": "pdk-monitor-pre-adopt-2026-05-25 (1)",
-                      "filename": "pdk-monitor-pre-adopt-2026-05-25 (1).json",
-                      "kind": "json",
-                      "size": 90661,
-                      "parsed": {
-                        "sweep": {
-                          "name": "statuses",
-                          "values": [
-                            null,
-                            null,
-                            null,
-                            null
-                          ]
-                        },
-                        "traces": [
-                          {
-                            "name": "categories",
-                            "values": [
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null
-                            ]
-                          },
-                          {
-                            "name": "bbTypes",
-                            "values": [
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null,
-                              null
-                            ]
-                          },
-                          {
-                            "name": "tabs",
-                            "values": [
-                              null
-                            ]
-                          },
-                          {
-                            "name": "contributors",
-                            "values": [
-                              null,
-                              null,
-                              null,
-                              null
-                            ]
-                          }
-                        ]
-                      },
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T12:30:18.008Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
+              "testGroups": [],
               "documents": [
                 {
                   "id": "d_inlou6f",
@@ -12962,7 +12635,9 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsContent": ""
             },
             {
               "id": "e_z1e654s",
@@ -13019,7 +12694,9 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsContent": ""
             },
             {
               "id": "e_1qkhwfh",
@@ -13076,97 +12753,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
-            },
-            {
-              "id": "e_waxpurf",
-              "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_RIB_2x1_MMI.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_flralzc",
-                  "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI.yaml",
-                  "mime": "application/yaml",
-                  "dataUrl": "data:application/yaml;base64,bmFtZTogU09JMjIwbm1fMTMxMG5tX1RFX1JJQl8yeDFfTU1JCmNvbXBvbmVudF90eXBlOiBNTUkxeDIKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDEzMTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHJpYl8xMzEwbm1fVEUKLSBuYW1lOiBvMgogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDEyMy42CiAgLSAxLjUyNTAwCiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCi0gbmFtZTogbzMKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAxMjMuNgogIC0gLTEuNTI1CiAgb3JpZW50YXRpb246IDAKICBjcm9zc19zZWN0aW9uOiByaWJfMTMxMG5tX1RFCg==",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "layoutSvg": "<svg viewBox=\"0 0 1000 560\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;display:block;background:#0b1117;\" data-um-per-svgunit=\"1.367257e-1\">\n    <rect x=\"0\" y=\"0\" width=\"1000\" height=\"560\" fill=\"#0b1117\"/>\n    <rect x=\"48\" y=\"239.48867313915858\" width=\"904\" height=\"117.02265372168284\"\n          fill=\"none\" stroke=\"#2a323d\" stroke-width=\"0.5\" stroke-dasharray=\"4 4\" />\n    <path d=\"M 350.8 319.9 L 350.8 303.5 L 204.5 299.5 L 48.0 299.5 L 48.0 296.5 L 204.5 296.5 L 350.8 292.5 L 350.8 276.1 L 649.2 276.1 L 649.2 281.4 L 795.5 285.4 L 952.0 285.4 L 952.0 288.3 L 795.5 288.3 L 649.2 292.3 L 649.2 303.7 L 795.5 307.7 L 952.0 307.7 L 952.0 310.6 L 795.5 310.6 L 649.2 314.6 L 649.2 319.9 L 350.8 319.9 Z\" fill=\"#d29922\" fill-opacity=\"0.55\" stroke=\"#d29922\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Si full etch\" data-layer-desc=\"Strip waveguides — silicon fully etched\" /><path d=\"M 314.2 356.5 L 314.2 339.1 L 204.0 336.0 L 48.0 336.0 L 48.0 260.0 L 204.0 260.0 L 314.2 256.9 L 314.2 239.5 L 685.8 239.5 L 685.8 245.8 L 796.0 248.8 L 952.0 248.8 L 952.0 347.2 L 796.0 347.2 L 685.8 350.2 L 685.8 356.5 L 314.2 356.5 Z\" fill=\"#f5a83a\" fill-opacity=\"0.55\" stroke=\"#f5a83a\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"5/0\" data-layer=\"5\" data-datatype=\"0\"\n                    data-layer-name=\"Slab etch\" data-layer-desc=\"Partial silicon etch for slab/rib transitions\" />\n    \n    <text x=\"500\" y=\"26\" text-anchor=\"middle\" fill=\"#e6edf3\" font-size=\"14\" font-family=\"ui-monospace,monospace\">SOI220nm_1310nm_TE_RIB_2x1_MMI</text>\n    <text x=\"500\" y=\"46\" text-anchor=\"middle\" fill=\"#6e7681\" font-size=\"11\" font-family=\"ui-monospace,monospace\">123.60 × 16.00 µm  (parsed from .gds)</text>\n  </svg><div style=\"padding:10px 12px 12px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;background:var(--panel-2);border-top:1px solid var(--border);\">\n    <span style=\"font-size:11px;color:var(--text-faint);align-self:center;margin-right:4px;\">GDS layers:</span>\n    <span class=\"gds-legend-chip\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                  data-layer-name=\"Si full etch\" data-layer-desc=\"Strip waveguides — silicon fully etched\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#d29922;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Si full etch</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L3/0</span>\n     </span><span class=\"gds-legend-chip\" data-ld=\"5/0\" data-layer=\"5\" data-datatype=\"0\"\n                  data-layer-name=\"Slab etch\" data-layer-desc=\"Partial silicon etch for slab/rib transitions\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#f5a83a;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Slab etch</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L5/0</span>\n     </span>\n  </div>",
-              "gdsName": "SOI220nm_1310nm_TE_RIB_2x1_MMI.gds",
-              "gdsSize": 500,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1310nm_TE_RIB_2x1_MMI.gds",
-                  "ts": 1779694490241
-                },
-                {
-                  "section": "smatrix",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/sparams/SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
-                  "ts": 1779694510255
-                }
-              ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_tcbx06l",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_j4pqbcy",
-                      "name": "SOI220nm_1310nm_TE_RIB_2x1_MMI",
-                      "filename": "SOI220nm_1310nm_TE_RIB_2x1_MMI.csv",
-                      "kind": "csv",
-                      "size": 358334,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T13:08:10.466Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
-              "_gdsStripped": true,
-              "plannedReleaseDate": "",
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_2t8txsw",
@@ -13256,7 +12844,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_qe07omd",
@@ -13346,7 +12935,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_cfaz00p",
@@ -13436,7 +13026,9 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "layoutSvg": "",
+              "gdsContent": ""
             },
             {
               "id": "e_obg8p1t",
@@ -13493,7 +13085,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_qieb6sk",
@@ -13583,7 +13176,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_xd3v45x",
@@ -13673,7 +13267,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_jtpff1b",
@@ -13763,7 +13358,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_19nr975",
@@ -13853,7 +13449,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_66vbu6g",
@@ -13943,7 +13540,9 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "layoutSvg": "",
+              "gdsContent": ""
             },
             {
               "id": "e_z9rrek5",
@@ -14000,7 +13599,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_mjcm4p8",
@@ -14090,7 +13690,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_svzy7po",
@@ -14180,7 +13781,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_jyw43mo",
@@ -14270,7 +13872,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_luh771z",
@@ -14360,7 +13963,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_2i7s9wq",
@@ -14450,7 +14054,9 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "layoutSvg": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ig3x40h",
@@ -14507,7 +14113,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_fgyoxlk",
@@ -14597,7 +14204,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_j6nxmw7",
@@ -14687,7 +14295,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_t9kcnqg",
@@ -14777,7 +14386,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             },
             {
               "id": "e_mv15bsy",
@@ -14867,244 +14477,8 @@
               "subBlocks": [],
               "expanded": false,
               "edaLinks": [],
-              "trl": null
-            },
-            {
-              "id": "e_hg9zuab",
-              "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_STRIP_Grating_Coupler.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_mpu215x",
-                  "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.yaml",
-                  "mime": "application/yaml",
-                  "dataUrl": "data:application/yaml;base64,bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX0dyYXRpbmdfQ291cGxlcgpjb21wb25lbnRfdHlwZTogR3JhdGluZ0NvdXBsZXIxRAphdXRob3JzOgotIG5hbWU6IENPUk5FUlNUT05FCiAgb3JnYW5pc2F0aW9uOiBDT1JORVJTVE9ORQpsYXN0X3VwZGF0ZWQ6IDI4LzA3LzIwMjUKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQogIG1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDE1NTAKLSBuYW1lOiB2ZXJ0aWNhbF90ZQogIHBvcnRfdHlwZTogdmVydGljYWxfdGUKICBjZW50ZXI6CiAgLSAzNjkuMDg0CiAgLSAwCiAgb3JpZW50YXRpb246IDAKICB3aWR0aDogMTAKICBjb3VwbGluZ19hbmdsZV9jbGFkZGluZzogNi44ODYKICBmaWJyZV9tb2RlczoKICAtIGZpYnJlX3R5cGU6IFNNRi0yOAogICAgd2F2ZWxlbmd0aDogICAxNTUwLjAK",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "gdsName": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.gds",
-              "gdsSize": 4110,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_STRIP_Grating_Coupler.gds",
-                  "ts": 1779694497852
-                },
-                {
-                  "section": "smatrix",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/sparams/SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
-                  "ts": 1779694518556
-                }
-              ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_o9d8o7x",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_0c53ok4",
-                      "name": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_Grating_Coupler.csv",
-                      "kind": "csv",
-                      "size": 163429,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T13:08:40.594Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
-              "_gdsStripped": true,
-              "_svgStripped": true,
-              "plannedReleaseDate": "",
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null
-            },
-            {
-              "id": "e_6hl2ktz",
-              "name": "SOI220nm_1550nm_TE_STRIP_Waveguide",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_STRIP_Waveguide.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_4rqlrms",
-                  "name": "SOI220nm_1550nm_TE_STRIP_Waveguide.yaml",
-                  "mime": "application/yaml",
-                  "dataUrl": "data:application/yaml;base64,bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX1dhdmVndWlkZQpjb21wb25lbnRfdHlwZTogV2F2ZWd1aWRlCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCmxhc3RfdXBkYXRlZDogMjgvMDcvMjAyNQptb2RlczoKICAtIG1vZGVfbnVtYmVyczoKICAgIC0gMAogICAgLSAwCiAgICBwb2xhcmlzYXRpb246IFRFCiAgICB3YXZlbGVuZ3RoOiAxNTUwCnBvcnRzOgotIG5hbWU6IG8xCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMAogIC0gMC4wCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gMTAwCiAgLSAwLjAKICBvcmllbnRhdGlvbjogMC4wCiAgY3Jvc3Nfc2VjdGlvbjogc3RyaXBfMTU1MG5tCg==",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "layoutSvg": "<svg viewBox=\"0 0 1000 560\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;display:block;background:#0b1117;\" data-um-per-svgunit=\"1.106195e-1\">\n    <rect x=\"0\" y=\"0\" width=\"1000\" height=\"560\" fill=\"#0b1117\"/>\n    <rect x=\"48.00000000000006\" y=\"295.966\" width=\"903.9999999999999\" height=\"4.068\"\n          fill=\"none\" stroke=\"#2a323d\" stroke-width=\"0.5\" stroke-dasharray=\"4 4\" />\n    <path d=\"M 48.0 300.0 L 48.0 296.0 L 952.0 296.0 L 952.0 300.0 L 48.0 300.0 Z\" fill=\"#d29922\" fill-opacity=\"0.55\" stroke=\"#d29922\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Si full etch\" data-layer-desc=\"Strip waveguides — silicon fully etched\" />\n    \n    <text x=\"500\" y=\"26\" text-anchor=\"middle\" fill=\"#e6edf3\" font-size=\"14\" font-family=\"ui-monospace,monospace\">SOI220nm_1550nm_TE_STRIP_Waveguide</text>\n    <text x=\"500\" y=\"46\" text-anchor=\"middle\" fill=\"#6e7681\" font-size=\"11\" font-family=\"ui-monospace,monospace\">100.00 × 0.45 µm  (parsed from .gds)</text>\n  </svg><div style=\"padding:10px 12px 12px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;background:var(--panel-2);border-top:1px solid var(--border);\">\n    <span style=\"font-size:11px;color:var(--text-faint);align-self:center;margin-right:4px;\">GDS layers:</span>\n    <span class=\"gds-legend-chip\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                  data-layer-name=\"Si full etch\" data-layer-desc=\"Strip waveguides — silicon fully etched\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#d29922;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Si full etch</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L3/0</span>\n     </span>\n  </div>",
-              "gdsName": "SOI220nm_1550nm_TE_STRIP_Waveguide.gds",
-              "gdsSize": 200,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_STRIP_Waveguide.gds",
-                  "ts": 1779694498143
-                }
-              ],
-              "_gdsStripped": true,
-              "plannedReleaseDate": "",
-              "smatrixGroups": [],
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null
-            },
-            {
-              "id": "e_99sq18j",
-              "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
-              "status": "available",
-              "owner": "admin",
-              "description": "",
-              "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.gds",
-              "files": [],
-              "scripts": [],
-              "datasets": [],
-              "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_zrze6h2",
-                  "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.yaml",
-                  "mime": "application/yaml",
-                  "dataUrl": "data:application/yaml;base64,bmFtZTogU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX1dhdmVndWlkZV9Dcm9zc2luZwpjb21wb25lbnRfdHlwZTogQ3Jvc3NpbmcKYXV0aG9yczoKLSBuYW1lOiBDT1JORVJTVE9ORQogIG9yZ2FuaXNhdGlvbjogQ09STkVSU1RPTkUKbGFzdF91cGRhdGVkOiAyOC8wNy8yMDI1Cm1vZGVzOgogIC0gbW9kZV9udW1iZXJzOgogICAgLSAwCiAgICAtIDAKICAgIHBvbGFyaXNhdGlvbjogVEUKICAgIHdhdmVsZW5ndGg6IDE1NTAKcG9ydHM6Ci0gbmFtZTogbzEKICBwb3J0X3R5cGU6IG9wdGljYWwKICBjZW50ZXI6CiAgLSAwCiAgLSAwCiAgb3JpZW50YXRpb246IDE4MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8yCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gNC42MgogIC0gNC42MgogIG9yaWVudGF0aW9uOiA5MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQotIG5hbWU6IG8zCiAgcG9ydF90eXBlOiBvcHRpY2FsCiAgY2VudGVyOgogIC0gOS4yNAogIC0gMAogIG9yaWVudGF0aW9uOiAwLjAKICBjcm9zc19zZWN0aW9uOiBzdHJpcF8xNTUwbm0KLSBuYW1lOiBvNAogIHBvcnRfdHlwZTogb3B0aWNhbAogIGNlbnRlcjoKICAtIDQuNjIKICAtIC00LjYyCiAgb3JpZW50YXRpb246IDI3MAogIGNyb3NzX3NlY3Rpb246IHN0cmlwXzE1NTBubQogIAo=",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
-              "updated": "2026-05-25",
-              "kind": "passive",
-              "bbType": "waveguide",
-              "dimensionsOn": true,
-              "params": {
-                "width_nm": 500,
-                "length_um": 100,
-                "thickness_nm": 220
-              },
-              "layoutSvg": "<svg viewBox=\"0 0 1000 560\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;display:block;background:#0b1117;\" data-um-per-svgunit=\"1.941176e-2\">\n    <rect x=\"0\" y=\"0\" width=\"1000\" height=\"560\" fill=\"#0b1117\"/>\n    <rect x=\"262\" y=\"60\" width=\"476\" height=\"476\"\n          fill=\"none\" stroke=\"#2a323d\" stroke-width=\"0.5\" stroke-dasharray=\"4 4\" />\n    <path d=\"M 488.4 536.0 L 488.7 516.2 L 484.5 496.3 L 469.1 476.5 L 465.6 456.7 L 464.7 436.8 L 463.5 417.0 L 458.8 397.2 L 459.1 377.3 L 452.4 357.5 L 452.3 345.7 L 440.5 345.6 L 420.7 338.9 L 400.8 339.2 L 381.0 334.5 L 361.2 333.3 L 341.3 332.4 L 321.5 328.9 L 301.7 313.5 L 281.8 309.3 L 262.0 309.6 L 262.0 286.4 L 281.8 286.7 L 301.7 282.5 L 321.5 267.1 L 341.3 263.6 L 361.2 262.7 L 381.0 261.5 L 400.8 256.8 L 420.7 257.1 L 440.5 250.4 L 452.3 250.3 L 452.4 238.5 L 459.1 218.7 L 458.8 198.8 L 463.5 179.0 L 464.7 159.2 L 465.6 139.3 L 469.1 119.5 L 484.5 99.7 L 488.7 79.8 L 488.4 60.0 L 511.6 60.0 L 511.3 79.8 L 515.5 99.7 L 530.9 119.5 L 534.4 139.3 L 535.3 159.2 L 536.5 179.0 L 541.2 198.8 L 540.9 218.7 L 547.6 238.5 L 547.7 250.3 L 559.5 250.4 L 579.3 257.1 L 599.2 256.8 L 619.0 261.5 L 638.8 262.7 L 658.7 263.6 L 678.5 267.1 L 698.3 282.5 L 718.2 286.7 L 738.0 286.4 L 738.0 309.6 L 718.2 309.3 L 698.3 313.5 L 678.5 328.9 L 658.7 332.4 L 638.8 333.3 L 619.0 334.5 L 599.2 339.2 L 579.3 338.9 L 559.5 345.6 L 547.7 345.7 L 547.6 357.5 L 540.9 377.3 L 541.2 397.2 L 536.5 417.0 L 535.3 436.8 L 534.4 456.7 L 530.9 476.5 L 515.5 496.3 L 511.3 516.2 L 511.6 536.0 L 488.4 536.0 Z\" fill=\"#d29922\" fill-opacity=\"0.55\" stroke=\"#d29922\" stroke-width=\"0.5\"\n                    class=\"gds-layer-el\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                    data-layer-name=\"Si full etch\" data-layer-desc=\"Strip waveguides — silicon fully etched\" />\n    \n    <text x=\"500\" y=\"26\" text-anchor=\"middle\" fill=\"#e6edf3\" font-size=\"14\" font-family=\"ui-monospace,monospace\">SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing</text>\n    <text x=\"500\" y=\"46\" text-anchor=\"middle\" fill=\"#6e7681\" font-size=\"11\" font-family=\"ui-monospace,monospace\">9.24 × 9.24 µm  (parsed from .gds)</text>\n  </svg><div style=\"padding:10px 12px 12px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;background:var(--panel-2);border-top:1px solid var(--border);\">\n    <span style=\"font-size:11px;color:var(--text-faint);align-self:center;margin-right:4px;\">GDS layers:</span>\n    <span class=\"gds-legend-chip\" data-ld=\"3/0\" data-layer=\"3\" data-datatype=\"0\"\n                  data-layer-name=\"Si full etch\" data-layer-desc=\"Strip waveguides — silicon fully etched\"\n                  style=\"display:inline-flex;align-items:center;gap:6px;background:var(--panel-3);border:1px solid var(--border);border-radius:4px;padding:3px 9px;font-size:11px;font-family:ui-monospace,monospace;cursor:help;\">\n       <span style=\"display:inline-block;width:12px;height:12px;background:#d29922;opacity:0.85;border-radius:2px;\"></span>\n       <span style=\"color:var(--text);\">Si full etch</span>\n       <span style=\"color:var(--text-faint);font-size:9.5px;\">L3/0</span>\n     </span>\n  </div>",
-              "gdsName": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.gds",
-              "gdsSize": 850,
-              "edaTools": [],
-              "cdi": {},
-              "fabTabs": [],
-              "fetchHistory": [
-                {
-                  "section": "layout",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/components/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.gds",
-                  "ts": 1779694498646
-                },
-                {
-                  "section": "smatrix",
-                  "url": "https://github.com/cornerstone-uos/cornerstone-community/blob/main/Si_220nm_active/sparams/SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
-                  "ts": 1779694519004
-                }
-              ],
-              "smatrixGroups": [
-                {
-                  "id": "sg_lvcr7xt",
-                  "name": "Files",
-                  "datasets": [
-                    {
-                      "id": "t_5vjf3ia",
-                      "name": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing",
-                      "filename": "SOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.csv",
-                      "kind": "csv",
-                      "size": 632133,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "",
-                      "added": "2026-05-25T13:08:43.000Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true,
-                      "_parsedStripped": true
-                    }
-                  ],
-                  "collapsed": false
-                }
-              ],
-              "_gdsStripped": true,
-              "plannedReleaseDate": "",
-              "customSketchUrl": "",
-              "customSketchName": "",
-              "layoutScaleUmPerPx": 0,
-              "subBlocks": [],
-              "expanded": false,
-              "edaLinks": [],
-              "trl": null
+              "trl": null,
+              "gdsContent": ""
             }
           ],
           "status": "available",
@@ -15224,88 +14598,7 @@
               "files": [],
               "scripts": [],
               "datasets": [],
-              "testGroups": [
-                {
-                  "id": "tg_ivlh06u",
-                  "name": "bilge heater test",
-                  "tests": [
-                    {
-                      "id": "t_rwgwnno",
-                      "name": "pdk-bb-summary-2026-05-10 (1)",
-                      "filename": "pdk-bb-summary-2026-05-10 (1).xlsx",
-                      "kind": "xlsx",
-                      "size": 24845,
-                      "parsed": {
-                        "sweep": {
-                          "name": "Thickness (nm)",
-                          "values": [
-                            220,
-                            220,
-                            340,
-                            500,
-                            null
-                          ]
-                        },
-                        "traces": [
-                          {
-                            "name": "Tests",
-                            "values": [
-                              2,
-                              0,
-                              0,
-                              0,
-                              0
-                            ]
-                          },
-                          {
-                            "name": "S-matrix datasets",
-                            "values": [
-                              1,
-                              0,
-                              1,
-                              0,
-                              0
-                            ]
-                          },
-                          {
-                            "name": "Scripts",
-                            "values": [
-                              0,
-                              0,
-                              0,
-                              0,
-                              0
-                            ]
-                          },
-                          {
-                            "name": "Variants",
-                            "values": [
-                              0,
-                              0,
-                              0,
-                              0,
-                              0
-                            ]
-                          }
-                        ]
-                      },
-                      "rawText": null,
-                      "imageUrl": null,
-                      "metadata": {
-                        "device_id": "",
-                        "date": "2026-05-25",
-                        "instrument": "",
-                        "conditions": "",
-                        "notes": ""
-                      },
-                      "who": "CS_Bilge",
-                      "added": "2026-05-25T10:54:38.617Z",
-                      "updated": "2026-05-25",
-                      "_stripped": true
-                    }
-                  ]
-                }
-              ],
+              "testGroups": [],
               "documents": [
                 {
                   "id": "d_tw6n7fy",
@@ -22627,10 +21920,10 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastPublishedAt": "2026-05-25T13:07:05.922Z",
-    "lastPublishedSha": "8d7409354d07723d6d41c3ef6e500d2f196a81e1",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/8d7409354d07723d6d41c3ef6e500d2f196a81e1",
-    "lastFetchedAt": "2026-05-25T13:08:02.188Z",
+    "lastPublishedAt": "2026-05-25T13:10:50.681Z",
+    "lastPublishedSha": "8dce72ae44960c2dee1e56ce403f3e342ee73859",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/8dce72ae44960c2dee1e56ce403f3e342ee73859",
+    "lastFetchedAt": "2026-05-25T13:11:28.228Z",
     "lastFetchedSha": "d553e5b3e9dfbbfc8915f9f180a66684a18988a2",
     "lastMergeStats": {
       "tabs": 0,
@@ -22659,13 +21952,13 @@
   "lastGithubFetch": "2026-05-25T13:08:43.026Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-25T13:10:50.681Z",
+    "publishedAt": "2026-05-25T13:17:59.356Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
     "contributorCount": 7,
-    "bbCount": 118,
+    "bbCount": 114,
     "guestCount": 6,
     "termsVersion": "1.1.0"
   },
