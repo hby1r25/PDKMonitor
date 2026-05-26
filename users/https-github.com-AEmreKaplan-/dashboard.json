@@ -1427,7 +1427,7 @@
     }
   ],
   "_distribution": {
-    "publishedAt": "2026-05-26T18:52:32.560Z",
+    "publishedAt": "2026-05-26T18:53:19.306Z",
     "publisherIdentity": "https://github.com/AEmreKaplan/",
     "publisherLabel": "CS_Emre",
     "publisherRole": "user-admin",
@@ -1449,10 +1449,10 @@
       "note": "All embedded binaries (GDS, document data URLs, large SVGs, raw CSV / S-matrix bytes) were stripped from this published payload — only metadata remains. Adopters: run a per-BB or per-platform GitHub sync to repopulate the bytes from the original GitHub source."
     },
     "externalized": {
-      "uploaded": 1,
+      "uploaded": 0,
       "skipped": 0,
       "failed": 0,
-      "reused": 104,
+      "reused": 105,
       "usersDir": "users/https-github.com-AEmreKaplan-/",
       "layoutVersion": "rev3-per-bb",
       "note": "Per-BB folder layout: users/https-github.com-AEmreKaplan-/<bb>/<section>/<file> with section names matching cornerstone-community (components, sparams, characterisation, fabrication, scripts, documents, variants). Each item carries `repoPath` instead of inline bytes; adopters hydrate via the fetch-time helper. Re-publish is idempotent."
