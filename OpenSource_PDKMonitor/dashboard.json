@@ -6637,7 +6637,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_j50vobe",
@@ -6710,7 +6713,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_z1e654s",
@@ -6791,7 +6797,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7r11zvo",
@@ -6849,7 +6858,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_0rl1oel",
@@ -6907,7 +6919,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_miu7hij",
@@ -6949,7 +6964,31 @@
               "testGroups": [],
               "smatrixGroups": [],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "photodetector",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_n48tl3w",
@@ -6976,7 +7015,31 @@
               "testGroups": [],
               "smatrixGroups": [],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "photodetector",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             }
           ],
           "status": "available",
@@ -7154,7 +7217,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_k77neha",
@@ -7248,7 +7314,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_wgt0y0l",
@@ -7329,7 +7398,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6puxohu",
@@ -7368,7 +7440,10 @@
               "fetchHistory": [],
               "edaLinks": [],
               "trl": null,
-              "dimensionsOn": false
+              "dimensionsOn": false,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_gy8phiw",
@@ -7407,7 +7482,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zsq6gkr",
@@ -7443,7 +7521,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_01p193h",
@@ -7544,7 +7625,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_km981tv",
@@ -7583,7 +7667,10 @@
               "subBlocks": [],
               "expanded": false,
               "fetchHistory": [],
-              "edaLinks": []
+              "edaLinks": [],
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ou06zu0",
@@ -7665,7 +7752,10 @@
               "trl": null,
               "_gdsStripped": true,
               "_svgStripped": true,
-              "platform": "SOI 220 nm Passive"
+              "platform": "SOI 220 nm Passive",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_p9by7fz",
@@ -7761,7 +7851,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_8om71on",
@@ -7850,7 +7943,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_k2hp2ub",
@@ -7939,7 +8035,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_gd3ogc5",
@@ -8029,7 +8128,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6qdz9i0",
@@ -8106,7 +8208,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_on4y36y",
@@ -8195,7 +8300,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_arne0w2",
@@ -8284,7 +8392,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_96o815j",
@@ -8373,7 +8484,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6qvpkzb",
@@ -8462,7 +8576,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_z23u1q9",
@@ -8552,7 +8669,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_wjpyrj2",
@@ -8629,7 +8749,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_lj1kgp8",
@@ -8841,7 +8964,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_p6w5nru",
@@ -8938,7 +9064,10 @@
               "edaLinks": [],
               "trl": null,
               "platform": "SOI 220 nm Passive",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_xkkp24h",
@@ -9028,7 +9157,10 @@
               "edaLinks": [],
               "trl": null,
               "platform": "SOI 220 nm Passive",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ii4sgml",
@@ -9118,7 +9250,10 @@
               "edaLinks": [],
               "trl": null,
               "platform": "SOI 220 nm Passive",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_k6mwy5e",
@@ -9209,7 +9344,10 @@
               "trl": null,
               "platform": "SOI 220 nm Passive",
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_afg1ih6",
@@ -9314,7 +9452,10 @@
               "edaLinks": [],
               "trl": null,
               "platform": "SOI 220 nm Passive",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_rkv39hk",
@@ -9404,7 +9545,10 @@
               "edaLinks": [],
               "trl": null,
               "platform": "SOI 220 nm Passive",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ynsm8ey",
@@ -9494,7 +9638,10 @@
               "edaLinks": [],
               "trl": null,
               "platform": "SOI 220 nm Passive",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_z2yvjrv",
@@ -9584,7 +9731,10 @@
               "edaLinks": [],
               "trl": null,
               "platform": "SOI 220 nm Passive",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_i6dm878",
@@ -9675,7 +9825,10 @@
               "trl": null,
               "platform": "SOI 220 nm Passive",
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ralig4j",
@@ -9753,7 +9906,10 @@
               "edaLinks": [],
               "trl": null,
               "platform": "SOI 220 nm Passive",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_mg14y9m",
@@ -9843,7 +9999,10 @@
               "edaLinks": [],
               "trl": null,
               "platform": "SOI 220 nm Passive",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_chsojia",
@@ -10006,7 +10165,10 @@
               "edaLinks": [],
               "trl": null,
               "platform": "SOI 220 nm Passive",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_h7bpjek",
@@ -10096,7 +10258,10 @@
               "edaLinks": [],
               "trl": null,
               "platform": "SOI 220 nm Passive",
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_k1zbhlo",
@@ -10113,7 +10278,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "mmi",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_bt8ywzn",
@@ -10161,7 +10350,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "mmi",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_9vtwtsb",
@@ -10209,7 +10422,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "bend",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_3l8a9nn",
@@ -10257,7 +10494,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "grating-coupler",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_kvi5fn6",
@@ -10305,7 +10566,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "crossing",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_f7bkrmv",
@@ -10353,7 +10638,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "mmi",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_s4a6w8a",
@@ -10401,7 +10710,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "mmi",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_hpx4n0z",
@@ -10449,7 +10782,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "bend",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_oaquujg",
@@ -10497,7 +10854,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "grating-coupler",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_latd2vh",
@@ -10545,7 +10926,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "crossing",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_67bu7ym",
@@ -10593,7 +10998,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "mmi",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_265cxhl",
@@ -10641,7 +11070,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "mmi",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_ocgcazc",
@@ -10689,7 +11142,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "bend",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_arei0gi",
@@ -10737,7 +11214,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "grating-coupler",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_ah3xv65",
@@ -10800,7 +11301,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "crossing",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_ddmka7z",
@@ -10848,7 +11373,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "mmi",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_lmonoah",
@@ -10896,7 +11445,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "bend",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_ql3oldh",
@@ -10944,7 +11517,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "grating-coupler",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_pe6fkcd",
@@ -10992,7 +11589,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "crossing",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_ezu7ksj",
@@ -11009,7 +11630,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "mmi",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_varfrux",
@@ -11051,7 +11696,31 @@
               "testGroups": [],
               "smatrixGroups": [],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "waveguide",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_wgq9i85",
@@ -11093,7 +11762,31 @@
               "testGroups": [],
               "smatrixGroups": [],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "waveguide",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_ercw6ln",
@@ -11135,7 +11828,31 @@
               "testGroups": [],
               "smatrixGroups": [],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_ldb6opq",
@@ -11183,7 +11900,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "mmi",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_ocd2wd7",
@@ -11225,7 +11966,31 @@
               "testGroups": [],
               "smatrixGroups": [],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "waveguide",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_4snhjoz",
@@ -11282,7 +12047,31 @@
               "testGroups": [],
               "smatrixGroups": [],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "waveguide",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             },
             {
               "id": "e_05w6w3h",
@@ -11330,7 +12119,31 @@
                 }
               ],
               "fabTabs": [],
-              "_contribOnly": true
+              "_contribOnly": true,
+              "status": "available",
+              "githubUrl": "",
+              "owner": "",
+              "description": "",
+              "updated": "",
+              "plannedReleaseDate": "",
+              "datasets": [],
+              "kind": "",
+              "bbType": "mmi",
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsSize": 0,
+              "gdsContent": "",
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "params": {},
+              "fetchHistory": [],
+              "edaTools": [],
+              "edaLinks": [],
+              "cdi": {},
+              "trl": null
             }
           ],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_passive",
@@ -11597,7 +12410,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ves3jjy",
@@ -11668,7 +12484,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_3ws2692",
@@ -11739,7 +12558,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_pk8q8q2",
@@ -11808,7 +12630,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_75mbhmn",
@@ -11879,7 +12704,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vzmjg06",
@@ -11940,7 +12768,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_uh3q75c",
@@ -12010,7 +12841,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vdwlenf",
@@ -12071,7 +12905,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_w4au6ab",
@@ -12139,7 +12976,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_gy1vex9",
@@ -12210,7 +13050,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_259cmnu",
@@ -12281,7 +13124,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ieha5mq",
@@ -12350,7 +13196,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_vqfqfyw",
@@ -12421,7 +13270,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ucgqldx",
@@ -12485,7 +13337,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_das1bqe",
@@ -12546,7 +13401,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "available",
@@ -12649,7 +13507,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6qmu4fa",
@@ -12728,7 +13589,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_ai8w29l",
@@ -12807,7 +13671,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9w4gmu0",
@@ -12884,7 +13751,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7ys02f0",
@@ -12963,7 +13833,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_kefyqh0",
@@ -13027,7 +13900,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -13190,7 +14066,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_bnk2hbx",
@@ -13257,7 +14136,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_jiz827o",
@@ -13323,7 +14205,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_fous0ae",
@@ -13388,7 +14273,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Si_sus_bias",
@@ -13480,7 +14368,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7tyhtm9",
@@ -13552,7 +14443,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_g2w8icv",
@@ -13623,7 +14517,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_385henq",
@@ -13684,7 +14581,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_hl6dbqn",
@@ -13755,7 +14655,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_mlygcam",
@@ -13827,7 +14730,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zbn2z3n",
@@ -13898,7 +14804,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n3mn5jf",
@@ -13959,7 +14868,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_kxwu1rp",
@@ -14030,7 +14942,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_1tlt4j3",
@@ -14102,7 +15017,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_611ubrv",
@@ -14173,7 +15091,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_8ne3say",
@@ -14232,7 +15153,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_n0xukmv",
@@ -14293,7 +15217,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -14414,7 +15341,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_zvb7fbp",
@@ -14493,7 +15423,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_dnb94u1",
@@ -14570,7 +15503,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_uhonmf1",
@@ -14647,7 +15583,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_tahc9bw",
@@ -14726,7 +15665,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_reyeixv",
@@ -14790,7 +15732,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_t7gdkb8",
@@ -14869,7 +15814,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_4abzgca",
@@ -14948,7 +15896,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_nkvzbqz",
@@ -15025,7 +15976,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_6upztlt",
@@ -15091,7 +16045,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_tshleh9",
@@ -15168,7 +16125,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_9lwujy2",
@@ -15234,7 +16194,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_lrs1qso",
@@ -15313,7 +16276,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_wryfu80",
@@ -15392,7 +16358,10 @@
               "edaLinks": [],
               "trl": null,
               "_gdsStripped": true,
-              "_svgStripped": true
+              "_svgStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_a42dmrr",
@@ -15456,7 +16425,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "status": "",
@@ -15557,7 +16529,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             },
             {
               "id": "e_7etircv",
@@ -15618,7 +16593,10 @@
               "expanded": false,
               "edaLinks": [],
               "trl": null,
-              "_gdsStripped": true
+              "_gdsStripped": true,
+              "layoutSvg": "",
+              "gdsName": "",
+              "gdsContent": ""
             }
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Ge_on_Si",
@@ -15687,7 +16665,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mppenl9e_0",
+        "id": "s_mppev7ij_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -15695,15 +16673,15 @@
         "enabled": true
       },
       {
-        "id": "s_mppenl9e_1",
+        "id": "s_mppev7ij_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
         "path": "users",
-        "enabled": true
+        "enabled": false
       },
       {
-        "id": "s_mppenl9e_2",
+        "id": "s_mppev7ij_2",
         "label": "CORNERSTONE community PDK (publish target)",
         "repo": "cornerstone-uos/cornerstone-community",
         "branch": "main",
@@ -15718,8 +16696,8 @@
     "lastPublishedAt": "2026-05-28T10:39:17.628Z",
     "lastPublishedSha": "f6ec843a35d3cb3e91b94746d7b52dfbcde09925",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/f6ec843a35d3cb3e91b94746d7b52dfbcde09925",
-    "lastFetchedAt": "2026-05-28T11:24:54.186Z",
-    "lastFetchedSha": "5a9ac2e9a3f97e8f92b2ff9eed753486295f6760",
+    "lastFetchedAt": "2026-05-28T11:30:25.497Z",
+    "lastFetchedSha": "9da8ea55b5cf803e6b4c34852208b618973cf758",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -15747,17 +16725,15 @@
   "lastGithubFetch": "2026-05-28T10:46:23.025Z",
   "sketchLibrary": [],
   "_distribution": {
-    "publishedAt": "2026-05-28T11:28:19.512Z",
-    "publisherIdentity": "AEmreKaplan",
+    "publishedAt": "2026-05-28T11:31:26.839Z",
+    "publisherIdentity": "AEmrekaplan",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
     "appVersion": "v1.0",
-    "contributorCount": 8,
+    "contributorCount": 7,
     "bbCount": 123,
     "guestCount": 5,
-    "termsVersion": "1.1.0",
-    "nuclearStripped": true,
-    "nuclearNote": "Second-pass strip: even after removing binaries, the payload was still over the safe limit. Test/smatrix/fab folder contents were emptied, scripts/documents reduced to filenames. Adopters: run a per-platform GitHub sync to repopulate."
+    "termsVersion": "1.1.0"
   },
   "_distributedSecurity": {
     "guestPasswords": [
@@ -16128,12 +17104,6 @@
       "addedAt": "2026-05-26T03:21:45.191Z",
       "fromSlice": "users/https-github.com-AEmreKaplan-",
       "discovered": true
-    },
-    {
-      "identity": "CS_Emre",
-      "name": "CS_Emre",
-      "role": "user-admin",
-      "addedAt": "2026-05-27T22:02:39.616Z"
     }
   ]
 }
