@@ -878,21 +878,7 @@
     "e_ucgqldx": "admin",
     "e_das1bqe": "admin",
     "d_stkq724": "admin",
-    "d_oqpb0l1": "admin",
-    "d_mpwelkf": "admin",
-    "d_sqf9vh0": "admin",
-    "d_ylzyu99": "admin",
-    "d_mnom6q3": "admin",
-    "d_lqe37fn": "admin",
-    "d_z9nt3na": "admin",
-    "d_ezfl35d": "admin",
-    "d_vxkto9w": "admin",
-    "d_zmv2i1h": "admin",
-    "d_vwo739r": "admin",
-    "d_91z9o5u": "admin",
     "d_aq3arvd": "admin",
-    "d_wcq656m": "admin",
-    "d_ar44zy2": "admin",
     "t_b4aid2d": "admin",
     "sg_reh8iih": "admin",
     "t_pabzwsv": "admin",
@@ -913,21 +899,13 @@
     "sg_fkc8rp7": "admin",
     "t_v4juwvf": "admin",
     "sg_2xb4g7a": "admin",
-    "d_4vaoih3": "admin",
-    "d_r246cf9": "admin",
     "e_pz8s7vr": "admin",
     "e_6qmu4fa": "admin",
     "e_ai8w29l": "admin",
     "e_9w4gmu0": "admin",
     "e_7ys02f0": "admin",
     "e_kefyqh0": "admin",
-    "d_63l9zyg": "admin",
     "d_4p8nnxa": "admin",
-    "d_9bijddb": "admin",
-    "d_99534yx": "admin",
-    "d_3h6dcvt": "admin",
-    "d_4wwzr91": "admin",
-    "d_efdudc7": "admin",
     "t_t5xr926": "admin",
     "sg_1dv90h0": "admin",
     "t_r99zv4u": "admin",
@@ -936,8 +914,6 @@
     "sg_59q03e9": "admin",
     "t_f7dj8ei": "admin",
     "sg_m9mbx49": "admin",
-    "d_hnzfxd3": "admin",
-    "d_ugv4x8y": "admin",
     "e_ru68cpa": "admin",
     "e_zvb7fbp": "admin",
     "e_dnb94u1": "admin",
@@ -991,8 +967,6 @@
     "sg_wi752ih": "admin",
     "t_e9hwqcl": "admin",
     "sg_yf45k3n": "admin",
-    "d_uulc4qo": "admin",
-    "d_gbgv10v": "admin",
     "e_ljjppiz": "admin",
     "e_7tyhtm9": "admin",
     "e_g2w8icv": "admin",
@@ -1007,19 +981,6 @@
     "e_8ne3say": "admin",
     "e_n0xukmv": "admin",
     "d_mjyfi2b": "admin",
-    "d_e52o733": "admin",
-    "d_2ilniv0": "admin",
-    "d_8lm4vvl": "admin",
-    "d_m7i6rmy": "admin",
-    "d_9dua02p": "admin",
-    "d_k11uot2": "admin",
-    "d_3ioslfc": "admin",
-    "d_p41ssle": "admin",
-    "d_3d2929w": "admin",
-    "d_ucc3zwa": "admin",
-    "d_vcjxd4q": "admin",
-    "d_x130otv": "admin",
-    "d_e1uia39": "admin",
     "t_zx7vtvf": "admin",
     "sg_dcppipu": "admin",
     "t_jbnqa1i": "admin",
@@ -1040,15 +1001,9 @@
     "sg_9r6y9y9": "admin",
     "t_qsb3p5y": "admin",
     "sg_lf2iroo": "admin",
-    "d_vu62540": "admin",
-    "d_vr8j6kr": "admin",
     "g_5004tbc": "admin",
     "e_0ogz289": "admin",
     "e_7etircv": "admin",
-    "d_0usfypq": "admin",
-    "d_lbeldx2": "admin",
-    "d_xg3n6nt": "admin",
-    "d_208gb14": "admin",
     "g_08lhfzj": "admin",
     "e_bg56pvh": "admin",
     "e_bnk2hbx": "admin",
@@ -5715,8 +5670,6 @@
     "d_pk0p4g1": "admin",
     "d_u4h9ym2": "admin",
     "d_onsjuol": "admin",
-    "d_v32tdvm": "admin",
-    "d_dxwz3r4": "admin",
     "t_src40v0": "admin",
     "t_zrcwmux": "admin",
     "t_m8ieg1g": "admin",
@@ -6601,8 +6554,6 @@
     "t_o06ye0v": "https://github.com/AEmreKaplan/",
     "t_bto5kng": "https://github.com/AEmreKaplan/",
     "d_kkawwmb": "https://github.com/AEmreKaplan/",
-    "d_ow5r0yh": "https://github.com/AEmreKaplan/",
-    "d_mu748ft": "https://github.com/AEmreKaplan/",
     "t_inazmp9": "https://github.com/AEmreKaplan/",
     "t_j28674y": "https://github.com/AEmreKaplan/",
     "d_j0i1z03": "https://github.com/AEmreKaplan/",
@@ -8284,32 +8235,6 @@
                   "added": "2026-05-31",
                   "rawText": "name: SOI220nm_1310nm_TE_MZI_Modulator\ncomponent_type: MZM\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n- name: top_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2270.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: bot_arm_n_bus\n  port_type: electrical_rf\n  center:\n  - 2470.985\n  - 360\n  orientation: 90\n  cross_section: modulator_tri\n- name: top_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 280.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: bot_arm_s_bus\n  port_type: electrical_rf\n  center:\n  - 480.985\n  - -360\n  orientation: 270\n  cross_section: modulator_tri\n- name: vertical_te_w1\n  port_type: vertical_te\n  center:\n  - 25.446\n  - 146.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n- name: vertical_te2_w2\n  port_type: vertical_te\n  center:\n  - 25.446\n  - 196.55\n  orientation: 180\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n- name: vertical_te1_e\n  port_type: vertical_te\n  center:\n  - 2726.524\n  - -132.435\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.8713\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1310.0\n",
                   "description": ""
-                },
-                {
-                  "id": "d_day8knz",
-                  "name": "components.md",
-                  "filename": "components.md",
-                  "mime": "text/markdown",
-                  "size": 1243,
-                  "binaryContent": "IyBCYXNpYyBjb21wb25lbnRzIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKSGVhdGVyLm1kClNPSTIyMG5tXzEzMTBubV9URV9NWklfTW9kdWxhdG9yLm1kClNPSTIyMG5tXzEzMTBubV9URV9SSUJfMngxX01NSS5tZApTT0kyMjBubV8xMzEwbm1fVEVfUklCXzJ4Ml9NTUkubWQKU09JMjIwbm1fMTMxMG5tX1RFX1JJQl85MF9EZWdyZWVfQmVuZC5tZApTT0kyMjBubV8xMzEwbm1fVEVfUklCX0dyYXRpbmdfQ291cGxlci5tZApTT0kyMjBubV8xMzEwbm1fVEVfUklCX1dhdmVndWlkZS5tZApTT0kyMjBubV8xMzEwbm1fVEVfUklCX1dhdmVndWlkZV9Dcm9zc2luZy5tZApTT0kyMjBubV8xMzEwbm1fVEVfU1RSSVBfMngxX01NSS5tZApTT0kyMjBubV8xMzEwbm1fVEVfU1RSSVBfMngyX01NSS5tZApTT0kyMjBubV8xMzEwbm1fVEVfU1RSSVBfOTBfRGVncmVlX0JlbmQubWQKU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQX0dyYXRpbmdfQ291cGxlci5tZApTT0kyMjBubV8xMzEwbm1fVEVfU1RSSVBfV2F2ZWd1aWRlLm1kClNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF9XYXZlZ3VpZGVfQ3Jvc3NpbmcubWQKU09JMjIwbm1fMTU1MG5tX1NpbmdsZVF1Yml0R2F0ZV9JSUZfVW9TaGVmZmllbGQubWQKU09JMjIwbm1fMTU1MG5tX1RFX0RlZmVjdF9EZXRlY3Rvci5tZApTT0kyMjBubV8xNTUwbm1fVEVfSXNvbGF0ZWREZXRlY3Rvci5tZApTT0kyMjBubV8xNTUwbm1fVEVfTVpJX01vZHVsYXRvci5tZApTT0kyMjBubV8xNTUwbm1fVEVfUklCXzJ4MV9NTUkubWQKU09JMjIwbm1fMTU1MG5tX1RFX1JJQl8yeDJfTU1JLm1kClNPSTIyMG5tXzE1NTBubV9URV9SSUJfOTBfRGVncmVlX0JlbmQubWQKU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9HcmF0aW5nX0NvdXBsZXIubWQKU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9XYXZlZ3VpZGUubWQKU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9XYXZlZ3VpZGVfQ3Jvc3NpbmcubWQKU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzJ4MV9NTUkubWQKU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzJ4Ml9NTUkubWQKU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQXzkwX0RlZ3JlZV9CZW5kLm1kClNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF9HcmF0aW5nX0NvdXBsZXIubWQKU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX1dhdmVndWlkZS5tZApTT0kyMjBubV8xNTUwbm1fVEVfU1RSSVBfV2F2ZWd1aWRlX0Nyb3NzaW5nLm1kCmBgYA==",
-                  "bbType": "mzi",
-                  "who": "",
-                  "added": "2026-05-31",
-                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nHeater.md\nSOI220nm_1310nm_TE_MZI_Modulator.md\nSOI220nm_1310nm_TE_RIB_2x1_MMI.md\nSOI220nm_1310nm_TE_RIB_2x2_MMI.md\nSOI220nm_1310nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1310nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1310nm_TE_RIB_Waveguide.md\nSOI220nm_1310nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1310nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1310nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1310nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1310nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1310nm_TE_STRIP_Waveguide.md\nSOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.md\nSOI220nm_1550nm_SingleQubitGate_IIF_UoSheffield.md\nSOI220nm_1550nm_TE_Defect_Detector.md\nSOI220nm_1550nm_TE_IsolatedDetector.md\nSOI220nm_1550nm_TE_MZI_Modulator.md\nSOI220nm_1550nm_TE_RIB_2x1_MMI.md\nSOI220nm_1550nm_TE_RIB_2x2_MMI.md\nSOI220nm_1550nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1550nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_Waveguide.md\nSOI220nm_1550nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1550nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1550nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1550nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1550nm_TE_STRIP_Waveguide.md\nSOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.md\n```",
-                  "description": ""
-                },
-                {
-                  "id": "d_1xjvst9",
-                  "name": "ready-made.md",
-                  "filename": "ready-made.md",
-                  "mime": "text/markdown",
-                  "size": 75,
-                  "binaryContent": "IyBSZWFkeS1tYWRlIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKYGBg",
-                  "bbType": "mzi",
-                  "who": "",
-                  "added": "2026-05-31",
-                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\n```",
-                  "description": ""
                 }
               ],
               "updated": "2026-05-31",
@@ -8612,7 +8537,8 @@
             "filesFound": 20,
             "urlsEmpty": 0,
             "deadUrls": []
-          }
+          },
+          "platformDocs": []
         },
         {
           "id": "g_pxvrznx",
@@ -8655,32 +8581,6 @@
                   "who": "",
                   "added": "2026-05-31",
                   "rawText": "name: Cell0_SOI220_Full_1550nm_Packaging_Template\ncomponent_type: PackagingTemplate\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 20/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1550\nports:\n- name: e_o1\n  port_type: optical\n  center:\n  - 4922.173\n  - 1650.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o10\n  port_type: optical\n  center:\n  - 4922.173\n  - -600.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o11\n  port_type: optical\n  center:\n  - 4922.173\n  - -850.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o12\n  port_type: optical\n  center:\n  - 4922.173\n  - -1100.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o13\n  port_type: optical\n  center:\n  - 4922.173\n  - -1350.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o14\n  port_type: optical\n  center:\n  - 4922.173\n  - -1600.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o2\n  port_type: optical\n  center:\n  - 4922.173\n  - 1400.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o3\n  port_type: optical\n  center:\n  - 4922.173\n  - 1150.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o4\n  port_type: optical\n  center:\n  - 4922.173\n  - 900.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o5\n  port_type: optical\n  center:\n  - 4922.173\n  - 650.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o6\n  port_type: optical\n  center:\n  - 4922.173\n  - 400.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o7\n  port_type: optical\n  center:\n  - 4922.173\n  - 150.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o8\n  port_type: optical\n  center:\n  - 4922.173\n  - -100.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_o9\n  port_type: optical\n  center:\n  - 4922.173\n  - -350.0\n  orientation: 180\n  cross_section: strip_1550nm\n- name: e_vertical_te1\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te10\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te11\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te12\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te13\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te14\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te2\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te3\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te4\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te5\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te6\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te7\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te8\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te9\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te_lb1\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - 1900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: e_vertical_te_lb2\n  port_type: vertical_te\n  center:\n  - 5290.0\n  - -1850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: n_e1\n  port_type: electrical_dc\n  center:\n  - -4615.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e10\n  port_type: electrical_dc\n  center:\n  - -1915.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e11\n  port_type: electrical_dc\n  center:\n  - -1615.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e12\n  port_type: electrical_dc\n  center:\n  - -1315.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e13\n  port_type: electrical_dc\n  center:\n  - -1015.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e14\n  port_type: electrical_dc\n  center:\n  - -715.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e15\n  port_type: electrical_dc\n  center:\n  - -415.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e16\n  port_type: electrical_dc\n  center:\n  - -115.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e17\n  port_type: electrical_dc\n  center:\n  - 185.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e18\n  port_type: electrical_dc\n  center:\n  - 485.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e19\n  port_type: electrical_dc\n  center:\n  - 785.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e2\n  port_type: electrical_dc\n  center:\n  - -4315.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e20\n  port_type: electrical_dc\n  center:\n  - 1085.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e21\n  port_type: electrical_dc\n  center:\n  - 1385.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e22\n  port_type: electrical_dc\n  center:\n  - 1685.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e23\n  port_type: electrical_dc\n  center:\n  - 1985.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e24\n  port_type: electrical_dc\n  center:\n  - 2285.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e25\n  port_type: electrical_dc\n  center:\n  - 2585.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e26\n  port_type: electrical_dc\n  center:\n  - 2885.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e27\n  port_type: electrical_dc\n  center:\n  - 3185.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e28\n  port_type: electrical_dc\n  center:\n  - 3485.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e29\n  port_type: electrical_dc\n  center:\n  - 3785.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e3\n  port_type: electrical_dc\n  center:\n  - -4015.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e30\n  port_type: electrical_dc\n  center:\n  - 4085.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e31\n  port_type: electrical_dc\n  center:\n  - 4385.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e4\n  port_type: electrical_dc\n  center:\n  - -3715.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e5\n  port_type: electrical_dc\n  center:\n  - -3415.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e6\n  port_type: electrical_dc\n  center:\n  - -3115.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e7\n  port_type: electrical_dc\n  center:\n  - -2815.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e8\n  port_type: electrical_dc\n  center:\n  - -2515.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: n_e9\n  port_type: electrical_dc\n  center:\n  - -2215.0\n  - 2200.0\n  orientation: 270\n  cross_section: dc\n- name: s_e1\n  port_type: electrical_dc\n  center:\n  - -4615.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e10\n  port_type: electrical_dc\n  center:\n  - -1915.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e11\n  port_type: electrical_dc\n  center:\n  - -1615.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e12\n  port_type: electrical_dc\n  center:\n  - -1315.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e13\n  port_type: electrical_dc\n  center:\n  - -1015.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e14\n  port_type: electrical_dc\n  center:\n  - -715.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e15\n  port_type: electrical_dc\n  center:\n  - -415.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e16\n  port_type: electrical_dc\n  center:\n  - -115.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e17\n  port_type: electrical_dc\n  center:\n  - 185.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e18\n  port_type: electrical_dc\n  center:\n  - 485.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e19\n  port_type: electrical_dc\n  center:\n  - 785.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e2\n  port_type: electrical_dc\n  center:\n  - -4315.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e20\n  port_type: electrical_dc\n  center:\n  - 1085.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e21\n  port_type: electrical_dc\n  center:\n  - 1385.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e22\n  port_type: electrical_dc\n  center:\n  - 1685.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e23\n  port_type: electrical_dc\n  center:\n  - 1985.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e24\n  port_type: electrical_dc\n  center:\n  - 2285.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e25\n  port_type: electrical_dc\n  center:\n  - 2585.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e26\n  port_type: electrical_dc\n  center:\n  - 2885.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e27\n  port_type: electrical_dc\n  center:\n  - 3185.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e28\n  port_type: electrical_dc\n  center:\n  - 3485.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e29\n  port_type: electrical_dc\n  center:\n  - 3785.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e3\n  port_type: electrical_dc\n  center:\n  - -4015.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e30\n  port_type: electrical_dc\n  center:\n  - 4085.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e31\n  port_type: electrical_dc\n  center:\n  - 4385.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e4\n  port_type: electrical_dc\n  center:\n  - -3715.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e5\n  port_type: electrical_dc\n  center:\n  - -3415.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e6\n  port_type: electrical_dc\n  center:\n  - -3115.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e7\n  port_type: electrical_dc\n  center:\n  - -2815.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e8\n  port_type: electrical_dc\n  center:\n  - -2515.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: s_e9\n  port_type: electrical_dc\n  center:\n  - -2215.0\n  - -2200.0\n  orientation: 90\n  cross_section: dc\n- name: w_o1\n  port_type: optical\n  center:\n  - -4922.173\n  - 1650.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o10\n  port_type: optical\n  center:\n  - -4922.173\n  - -600.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o11\n  port_type: optical\n  center:\n  - -4922.173\n  - -850.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o12\n  port_type: optical\n  center:\n  - -4922.173\n  - -1100.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o13\n  port_type: optical\n  center:\n  - -4922.173\n  - -1350.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o14\n  port_type: optical\n  center:\n  - -4922.173\n  - -1600.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o2\n  port_type: optical\n  center:\n  - -4922.173\n  - 1400.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o3\n  port_type: optical\n  center:\n  - -4922.173\n  - 1150.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o4\n  port_type: optical\n  center:\n  - -4922.173\n  - 900.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o5\n  port_type: optical\n  center:\n  - -4922.173\n  - 650.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o6\n  port_type: optical\n  center:\n  - -4922.173\n  - 400.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o7\n  port_type: optical\n  center:\n  - -4922.173\n  - 150.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o8\n  port_type: optical\n  center:\n  - -4922.173\n  - -100.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_o9\n  port_type: optical\n  center:\n  - -4922.173\n  - -350.0\n  orientation: 0\n  cross_section: strip_1550nm\n- name: w_vertical_te1\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te10\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te11\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te12\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te13\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te14\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1600.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te2\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te3\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te4\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te5\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 650.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te6\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 400.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te7\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 150.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te8\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -100.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te9\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -350.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te_lb1\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - 1900.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n- name: w_vertical_te_lb2\n  port_type: vertical_te\n  center:\n  - -5290.0\n  - -1850.0\n  orientation: 0\n  width: 10\n  coupling_angle_cladding: 6.886\n  fibre_modes:\n  - fibre_type: SMF-28\n    wavelength: 1550\n",
-                  "description": ""
-                },
-                {
-                  "id": "d_pd4vqjm",
-                  "name": "components.md",
-                  "filename": "components.md",
-                  "mime": "text/markdown",
-                  "size": 1207,
-                  "binaryContent": "IyBCYXNpYyBjb21wb25lbnRzIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKQ2VsbDBfU09JMjIwX0Z1bGxfMTU1MG5tX1BhY2thZ2luZ19UZW1wbGF0ZS5tZApIZWF0ZXIubWQKU09JMjIwbm1fMTMxMG5tX1RFX1JJQl8yeDFfTU1JLm1kClNPSTIyMG5tXzEzMTBubV9URV9SSUJfMngyX01NSS5tZApTT0kyMjBubV8xMzEwbm1fVEVfUklCXzkwX0RlZ3JlZV9CZW5kLm1kClNPSTIyMG5tXzEzMTBubV9URV9SSUJfR3JhdGluZ19Db3VwbGVyLm1kClNPSTIyMG5tXzEzMTBubV9URV9SSUJfV2F2ZWd1aWRlLm1kClNPSTIyMG5tXzEzMTBubV9URV9SSUJfV2F2ZWd1aWRlX0Nyb3NzaW5nLm1kClNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF8yeDFfTU1JLm1kClNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF8yeDJfTU1JLm1kClNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF85MF9EZWdyZWVfQmVuZC5tZApTT0kyMjBubV8xMzEwbm1fVEVfU1RSSVBfR3JhdGluZ19Db3VwbGVyLm1kClNPSTIyMG5tXzEzMTBubV9URV9TVFJJUF9XYXZlZ3VpZGUubWQKU09JMjIwbm1fMTMxMG5tX1RFX1NUUklQX1dhdmVndWlkZV9Dcm9zc2luZy5tZApTT0kyMjBubV8xNTUwbm1fVEVfUklCXzJ4MV9NTUkubWQKU09JMjIwbm1fMTU1MG5tX1RFX1JJQl8yeDJfTU1JLm1kClNPSTIyMG5tXzE1NTBubV9URV9SSUJfOTBfRGVncmVlX0JlbmQubWQKU09JMjIwbm1fMTU1MG5tX1RFX1JJQl9FQkxfQXBvZGlzZWRfR3JhdGluZ19Db3VwbGVyLm1kClNPSTIyMG5tXzE1NTBubV9URV9SSUJfR3JhdGluZ19Db3VwbGVyLm1kClNPSTIyMG5tXzE1NTBubV9URV9SSUJfTVpJLm1kClNPSTIyMG5tXzE1NTBubV9URV9SSUJfV2F2ZWd1aWRlLm1kClNPSTIyMG5tXzE1NTBubV9URV9SSUJfV2F2ZWd1aWRlX0Nyb3NzaW5nLm1kClNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF8yeDFfTU1JLm1kClNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF8yeDJfTU1JLm1kClNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF85MF9EZWdyZWVfQmVuZC5tZApTT0kyMjBubV8xNTUwbm1fVEVfU1RSSVBfR3JhdGluZ19Db3VwbGVyLm1kClNPSTIyMG5tXzE1NTBubV9URV9TVFJJUF9NWkkubWQKU09JMjIwbm1fMTU1MG5tX1RFX1NUUklQX1dhdmVndWlkZS5tZApTT0kyMjBubV8xNTUwbm1fVEVfU1RSSVBfV2F2ZWd1aWRlX0Nyb3NzaW5nLm1kCmBgYA==",
-                  "bbType": "custom",
-                  "who": "",
-                  "added": "2026-05-31",
-                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nCell0_SOI220_Full_1550nm_Packaging_Template.md\nHeater.md\nSOI220nm_1310nm_TE_RIB_2x1_MMI.md\nSOI220nm_1310nm_TE_RIB_2x2_MMI.md\nSOI220nm_1310nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1310nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1310nm_TE_RIB_Waveguide.md\nSOI220nm_1310nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1310nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1310nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1310nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1310nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1310nm_TE_STRIP_Waveguide.md\nSOI220nm_1310nm_TE_STRIP_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_RIB_2x1_MMI.md\nSOI220nm_1550nm_TE_RIB_2x2_MMI.md\nSOI220nm_1550nm_TE_RIB_90_Degree_Bend.md\nSOI220nm_1550nm_TE_RIB_EBL_Apodised_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_Grating_Coupler.md\nSOI220nm_1550nm_TE_RIB_MZI.md\nSOI220nm_1550nm_TE_RIB_Waveguide.md\nSOI220nm_1550nm_TE_RIB_Waveguide_Crossing.md\nSOI220nm_1550nm_TE_STRIP_2x1_MMI.md\nSOI220nm_1550nm_TE_STRIP_2x2_MMI.md\nSOI220nm_1550nm_TE_STRIP_90_Degree_Bend.md\nSOI220nm_1550nm_TE_STRIP_Grating_Coupler.md\nSOI220nm_1550nm_TE_STRIP_MZI.md\nSOI220nm_1550nm_TE_STRIP_Waveguide.md\nSOI220nm_1550nm_TE_STRIP_Waveguide_Crossing.md\n```",
-                  "description": ""
-                },
-                {
-                  "id": "d_g2wsk9b",
-                  "name": "ready-made.md",
-                  "filename": "ready-made.md",
-                  "mime": "text/markdown",
-                  "size": 165,
-                  "binaryContent": "IyBSZWFkeS1tYWRlIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKUElDX0Jvb3RjYW1wX0RlbW8ubWQKU09JMjIwX0NTX090U19NYXJjaF8yMDI1X3YxcDEubWQKU09JMjIwbm1fMTU1MG5tX1RFX0VkdWNhdGlvbl9LaXQubWQKYGBg",
-                  "bbType": "custom",
-                  "who": "",
-                  "added": "2026-05-31",
-                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nPIC_Bootcamp_Demo.md\nSOI220_CS_OtS_March_2025_v1p1.md\nSOI220nm_1550nm_TE_Education_Kit.md\n```",
                   "description": ""
                 }
               ],
@@ -9442,66 +9342,6 @@
               "datasets": [],
               "testGroups": [],
               "documents": [
-                {
-                  "id": "d_vu62540",
-                  "name": "components.md",
-                  "mime": "text/markdown",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
-                {
-                  "id": "d_vr8j6kr",
-                  "name": "ready-made.md",
-                  "mime": "text/markdown",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
-                {
-                  "id": "d_4vaoih3",
-                  "name": "components.md",
-                  "mime": "text/markdown",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
-                {
-                  "id": "d_r246cf9",
-                  "name": "ready-made.md",
-                  "mime": "text/markdown",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
-                {
-                  "id": "d_uulc4qo",
-                  "name": "components.md",
-                  "mime": "text/markdown",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
-                {
-                  "id": "d_gbgv10v",
-                  "name": "ready-made.md",
-                  "mime": "text/markdown",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
                 {
                   "id": "d_s17k4xk",
                   "name": "Heater.yaml",
@@ -11526,7 +11366,8 @@
             "filesFound": 49,
             "urlsEmpty": 0,
             "deadUrls": []
-          }
+          },
+          "platformDocs": []
         },
         {
           "id": "g_go55vv4",
@@ -11547,18 +11388,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_oqpb0l1",
-                  "name": "Heater_with_isolation_trench.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "x_9pogrls",
@@ -11601,18 +11431,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_mpwelkf",
-                  "name": "SOI340nm_1310nm_TE_STRIP_2x1_MMI.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "mmi",
@@ -11669,18 +11488,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_sqf9vh0",
-                  "name": "SOI340nm_1310nm_TE_STRIP_2x2_MMI.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "mmi",
@@ -11737,18 +11545,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_ylzyu99",
-                  "name": "SOI340nm_1310nm_TE_STRIP_90_Degree_Bend.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "bend",
@@ -11803,18 +11600,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_mnom6q3",
-                  "name": "SOI340nm_1310nm_TE_STRIP_Grating_Coupler.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "grating-coupler",
@@ -11871,18 +11657,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_lqe37fn",
-                  "name": "SOI340nm_1310nm_TE_STRIP_Waveguide.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "waveguide",
@@ -11929,18 +11704,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_z9nt3na",
-                  "name": "SOI340nm_1550nm_TE_RIB_90_Degree_Bend.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "bend",
@@ -11996,18 +11760,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_ezfl35d",
-                  "name": "SOI340nm_1550nm_TE_RIB_Waveguide.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "waveguide",
@@ -12054,18 +11807,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_vxkto9w",
-                  "name": "SOI340nm_1550nm_TE_RIB_to_STRIP.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "waveguide",
@@ -12119,18 +11861,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_zmv2i1h",
-                  "name": "SOI340nm_1550nm_TE_STRIP_2x1_MMI.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "mmi",
@@ -12187,18 +11918,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_vwo739r",
-                  "name": "SOI340nm_1550nm_TE_STRIP_2x2_MMI.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "mmi",
@@ -12255,18 +11975,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_91z9o5u",
-                  "name": "SOI340nm_1550nm_TE_STRIP_90_Degree_Bend.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "bend",
@@ -12389,19 +12098,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_wcq656m",
-                  "name": "SOI340nm_1550nm_TE_STRIP_MZI.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": "",
-                  "_stripped": true
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "mzi",
@@ -12450,18 +12147,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_ar44zy2",
-                  "name": "SOI340nm_1550nm_TE_STRIP_Waveguide.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "waveguide",
@@ -12503,7 +12189,8 @@
           "collapsed": false,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_340nm",
           "githubSubdir": "components",
-          "width": 414
+          "width": 414,
+          "platformDocs": []
         },
         {
           "id": "g_82nmouv",
@@ -12524,39 +12211,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_63l9zyg",
-                  "name": "Cell0_SOI500_Full_1550nm_Packaging_Template.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": "",
-                  "_stripped": true
-                },
-                {
-                  "id": "d_hnzfxd3",
-                  "name": "components.md",
-                  "mime": "text/markdown",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
-                {
-                  "id": "d_ugv4x8y",
-                  "name": "ready-made.md",
-                  "mime": "text/markdown",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "packaging",
               "bbType": "custom",
@@ -12600,18 +12255,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_9bijddb",
-                  "name": "SOI500nm_1550nm_TE_RIB_2x1_MMI.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "mmi",
@@ -12668,18 +12312,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_99534yx",
-                  "name": "SOI500nm_1550nm_TE_RIB_2x2_MMI.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "mmi",
@@ -12736,18 +12369,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_3h6dcvt",
-                  "name": "SOI500nm_1550nm_TE_RIB_90_Degree_Bend.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "bend",
@@ -12802,18 +12424,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_4wwzr91",
-                  "name": "SOI500nm_1550nm_TE_RIB_Grating_Coupler.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "grating-coupler",
@@ -12870,18 +12481,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_efdudc7",
-                  "name": "SOI500nm_1550nm_TE_RIB_Waveguide.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "waveguide",
@@ -12923,7 +12523,8 @@
           "collapsed": false,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_500nm",
           "githubSubdir": "components",
-          "width": 422
+          "width": 422,
+          "platformDocs": []
         },
         {
           "id": "g_08lhfzj",
@@ -12959,32 +12560,6 @@
                   "who": "admin",
                   "added": "2026-05-27",
                   "rawText": "name: Suspendedsilicon500nm_3800nm_TE_90_DegreeBend\ncomponent_type: Bend\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 01/07/2025\nmodes:\n  - mode_numbers:\n    - 0\n    - 0\n    polarisation: TE\n    wavelength: 3800\nports:\n- name: o1\n  port_type: optical\n  center:\n  - 4.25\n  - 0.0\n  orientation: 270\n  cross_section: sus_si_bias\n- name: o2\n  port_type: optical\n  center:\n  - 45\n  - 40.75\n  orientation: 0\n  cross_section: sus_si_bias\n",
-                  "description": ""
-                },
-                {
-                  "id": "d_v32tdvm",
-                  "name": "components.md",
-                  "filename": "components.md",
-                  "mime": "text/markdown",
-                  "size": 266,
-                  "binaryContent": "IyBCYXNpYyBjb21wb25lbnRzIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV85MF9EZWdyZWVCZW5kLm1kClN1c3BlbmRlZHNpbGljb241MDBubV8zODAwbm1fVEVfR3JhdGluZ0NvdXBsZXIubWQKU3VzcGVuZGVkc2lsaWNvbjUwMG5tXzM4MDBubV9URV9TQmVuZC5tZApTdXNwZW5kZWRzaWxpY29uNTAwbm1fMzgwMG5tX1RFX1dhdmVndWlkZS5tZApgYGA=",
-                  "bbType": "bend",
-                  "who": "admin",
-                  "added": "2026-05-27",
-                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nSuspendedsilicon500nm_3800nm_TE_90_DegreeBend.md\nSuspendedsilicon500nm_3800nm_TE_GratingCoupler.md\nSuspendedsilicon500nm_3800nm_TE_SBend.md\nSuspendedsilicon500nm_3800nm_TE_Waveguide.md\n```",
-                  "description": ""
-                },
-                {
-                  "id": "d_dxwz3r4",
-                  "name": "ready-made.md",
-                  "filename": "ready-made.md",
-                  "mime": "text/markdown",
-                  "size": 75,
-                  "binaryContent": "IyBSZWFkeS1tYWRlIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKYGBg",
-                  "bbType": "bend",
-                  "who": "admin",
-                  "added": "2026-05-27",
-                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\n```",
                   "description": ""
                 }
               ],
@@ -13225,7 +12800,8 @@
             "fab": false,
             "scripts": false,
             "docs": true
-          }
+          },
+          "platformDocs": []
         },
         {
           "id": "g_rojsbpi",
@@ -13248,16 +12824,6 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_e52o733",
-                  "name": "SiN200nm_520nm_TE_STRIP_2x1_MMI.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
-                {
                   "id": "d_kkawwmb",
                   "name": "SiN200nm_520nm_TE_STRIP_2x1_MMI.yaml",
                   "filename": "SiN200nm_520nm_TE_STRIP_2x1_MMI.yaml",
@@ -13271,36 +12837,6 @@
                   "repoSha": "f02f9b75eb84117a40616238238a750bbf3b99e3",
                   "binaryContent": "bmFtZTogU2lOMjAwbm1fNTIwbm1fVEVfU1RSSVBfMngxX01NSQpjb21wb25lbnRfdHlwZTogTU1JMXgyCmF1dGhvcnM6Ci0gbmFtZTogQ09STkVSU1RPTkUKICBvcmdhbmlzYXRpb246IENPUk5FUlNUT05FCi0gbmFtZTogRHIgVGhhbGlhIERvbWluZ3VleiBCdWNpbwogIG9yZ2FuaXNhdGlvbjogVW5pdmVyc2l0eSBvZiBTb3V0aGFtcHRvbgpsYXN0X3VwZGF0ZWQ6IDA0LzA3LzIwMjUKbW9kZXM6Ci0gbW9kZV9udW1iZXJzOgogIC0gMAogIC0gMAogIHBvbGFyaXNhdGlvbjogVEUKICB3YXZlbGVuZ3RoOiA1MjAKcG9ydHM6CiAgLSBjZW50ZXI6CiAgICAtIDAKICAgIC0gMC4wCiAgICBuYW1lOiBvMQogICAgb3JpZW50YXRpb246IDE4MC4wCiAgICBwb3J0X3R5cGU6IG9wdGljYWwKICAgIGNyb3NzX3NlY3Rpb246IHN0cmlwXzUyMG5tCiAgLSBjZW50ZXI6CiAgICAtIDEwMS42CiAgICAtIDAuODUKICAgIG5hbWU6IG8yCiAgICBvcmllbnRhdGlvbjogMC4wCiAgICBwb3J0X3R5cGU6IG9wdGljYWwKICAgIGNyb3NzX3NlY3Rpb246IHN0cmlwXzUyMG5tCiAgLSBjZW50ZXI6CiAgICAtIDEwMS42CiAgICAtIC0wLjg1CiAgICBuYW1lOiBvMwogICAgb3JpZW50YXRpb246IDAuMAogICAgcG9ydF90eXBlOiBvcHRpY2FsCiAgICBjcm9zc19zZWN0aW9uOiBzdHJpcF81MjBubQo=",
                   "rawText": "name: SiN200nm_520nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\n- name: Dr Thalia Dominguez Bucio\n  organisation: University of Southampton\nlast_updated: 04/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 520\nports:\n  - center:\n    - 0\n    - 0.0\n    name: o1\n    orientation: 180.0\n    port_type: optical\n    cross_section: strip_520nm\n  - center:\n    - 101.6\n    - 0.85\n    name: o2\n    orientation: 0.0\n    port_type: optical\n    cross_section: strip_520nm\n  - center:\n    - 101.6\n    - -0.85\n    name: o3\n    orientation: 0.0\n    port_type: optical\n    cross_section: strip_520nm\n"
-                },
-                {
-                  "id": "d_ow5r0yh",
-                  "name": "components.md",
-                  "filename": "components.md",
-                  "mime": "text/markdown",
-                  "size": 541,
-                  "bbType": "mmi",
-                  "who": "https://github.com/AEmreKaplan/",
-                  "added": "2026-05-29",
-                  "description": "",
-                  "repoPath": "users/https-github.com-AEmreKaplan-/SiN200nm_520nm_TE_STRIP_2x1_MMI__jjppiz/documents/components.md",
-                  "repoSha": "4a1385bbb1970925dcb32381266752d713011dd4",
-                  "binaryContent": "IyBCYXNpYyBjb21wb25lbnRzIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKSGVhdGVyLm1kClNpTjIwMG5tXzUyMG5tX1RFX1NUUklQXzJ4MV9NTUkubWQKU2lOMjAwbm1fNTIwbm1fVEVfU1RSSVBfMngyX01NSS5tZApTaU4yMDBubV81MjBubV9URV9TVFJJUF9HcmF0aW5nX0NvdXBsZXIubWQKU2lOMjAwbm1fNTIwbm1fVEVfU1RSSVBfV2F2ZWd1aWRlLm1kClNpTjIwMG5tXzYzOG5tX1RFX1NUUklQXzJ4MV9NTUkubWQKU2lOMjAwbm1fNjM4bm1fVEVfU1RSSVBfMngyX01NSS5tZApTaU4yMDBubV82MzhubV9URV9TVFJJUF9HcmF0aW5nX0NvdXBsZXIubWQKU2lOMjAwbm1fNjM4bm1fVEVfU1RSSVBfV2F2ZWd1aWRlLm1kClNpTjIwMG5tXzc4MG5tX1RFX1NUUklQXzJ4MV9NTUkubWQKU2lOMjAwbm1fNzgwbm1fVEVfU1RSSVBfMngyX01NSS5tZApTaU4yMDBubV83ODBubV9URV9TVFJJUF9HcmF0aW5nX0NvdXBsZXIubWQKU2lOMjAwbm1fNzgwbm1fVEVfU1RSSVBfV2F2ZWd1aWRlLm1kCmBgYA==",
-                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nHeater.md\nSiN200nm_520nm_TE_STRIP_2x1_MMI.md\nSiN200nm_520nm_TE_STRIP_2x2_MMI.md\nSiN200nm_520nm_TE_STRIP_Grating_Coupler.md\nSiN200nm_520nm_TE_STRIP_Waveguide.md\nSiN200nm_638nm_TE_STRIP_2x1_MMI.md\nSiN200nm_638nm_TE_STRIP_2x2_MMI.md\nSiN200nm_638nm_TE_STRIP_Grating_Coupler.md\nSiN200nm_638nm_TE_STRIP_Waveguide.md\nSiN200nm_780nm_TE_STRIP_2x1_MMI.md\nSiN200nm_780nm_TE_STRIP_2x2_MMI.md\nSiN200nm_780nm_TE_STRIP_Grating_Coupler.md\nSiN200nm_780nm_TE_STRIP_Waveguide.md\n```"
-                },
-                {
-                  "id": "d_mu748ft",
-                  "name": "ready-made.md",
-                  "filename": "ready-made.md",
-                  "mime": "text/markdown",
-                  "size": 75,
-                  "bbType": "mmi",
-                  "who": "https://github.com/AEmreKaplan/",
-                  "added": "2026-05-29",
-                  "description": "",
-                  "repoPath": "users/https-github.com-AEmreKaplan-/SiN200nm_520nm_TE_STRIP_2x1_MMI__jjppiz/documents/ready-made.md",
-                  "repoSha": "65143648e068d415984f16870dd05590b1a203de",
-                  "binaryContent": "IyBSZWFkeS1tYWRlIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKYGBg",
-                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\n```"
                 }
               ],
               "updated": "2026-05-25",
@@ -13360,17 +12896,6 @@
               "datasets": [],
               "testGroups": [],
               "documents": [
-                {
-                  "id": "d_2ilniv0",
-                  "name": "SiN200nm_520nm_TE_STRIP_2x2_MMI.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": "",
-                  "_stripped": true
-                },
                 {
                   "id": "d_j0i1z03",
                   "name": "SiN200nm_520nm_TE_STRIP_2x2_MMI.yaml",
@@ -13445,16 +12970,6 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_8lm4vvl",
-                  "name": "SiN200nm_520nm_TE_STRIP_Grating_Coupler.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
-                {
                   "id": "d_8fec114",
                   "name": "SiN200nm_520nm_TE_STRIP_Grating_Coupler.yaml",
                   "filename": "SiN200nm_520nm_TE_STRIP_Grating_Coupler.yaml",
@@ -13528,16 +13043,6 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_m7i6rmy",
-                  "name": "SiN200nm_520nm_TE_STRIP_Waveguide.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
-                {
                   "id": "d_rhd0dv5",
                   "name": "SiN200nm_520nm_TE_STRIP_Waveguide.yaml",
                   "filename": "SiN200nm_520nm_TE_STRIP_Waveguide.yaml",
@@ -13600,16 +13105,6 @@
               "datasets": [],
               "testGroups": [],
               "documents": [
-                {
-                  "id": "d_9dua02p",
-                  "name": "SiN200nm_638nm_TE_STRIP_2x1_MMI.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
                 {
                   "id": "d_4vrfhvu",
                   "name": "SiN200nm_638nm_TE_STRIP_2x1_MMI.yaml",
@@ -13684,17 +13179,6 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_k11uot2",
-                  "name": "SiN200nm_638nm_TE_STRIP_2x2_MMI.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": "",
-                  "_stripped": true
-                },
-                {
                   "id": "d_cgi06s2",
                   "name": "SiN200nm_638nm_TE_STRIP_2x2_MMI.yaml",
                   "filename": "SiN200nm_638nm_TE_STRIP_2x2_MMI.yaml",
@@ -13767,16 +13251,6 @@
               "datasets": [],
               "testGroups": [],
               "documents": [
-                {
-                  "id": "d_3ioslfc",
-                  "name": "SiN200nm_638nm_TE_STRIP_Grating_Coupler.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
                 {
                   "id": "d_rolreix",
                   "name": "SiN200nm_638nm_TE_STRIP_Grating_Coupler.yaml",
@@ -13851,16 +13325,6 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_p41ssle",
-                  "name": "SiN200nm_638nm_TE_STRIP_Waveguide.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
-                {
                   "id": "d_8drbraf",
                   "name": "SiN200nm_638nm_TE_STRIP_Waveguide.yaml",
                   "filename": "SiN200nm_638nm_TE_STRIP_Waveguide.yaml",
@@ -13929,16 +13393,6 @@
                 }
               ],
               "documents": [
-                {
-                  "id": "d_3d2929w",
-                  "name": "SiN200nm_780nm_TE_STRIP_2x1_MMI.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
                 {
                   "id": "d_26o5kyy",
                   "name": "SiN200nm_780nm_TE_STRIP_2x1_MMI.yaml",
@@ -14013,17 +13467,6 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_ucc3zwa",
-                  "name": "SiN200nm_780nm_TE_STRIP_2x2_MMI.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": "",
-                  "_stripped": true
-                },
-                {
                   "id": "d_15j42co",
                   "name": "SiN200nm_780nm_TE_STRIP_2x2_MMI.yaml",
                   "filename": "SiN200nm_780nm_TE_STRIP_2x2_MMI.yaml",
@@ -14096,16 +13539,6 @@
               "datasets": [],
               "testGroups": [],
               "documents": [
-                {
-                  "id": "d_vcjxd4q",
-                  "name": "SiN200nm_780nm_TE_STRIP_Grating_Coupler.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
                 {
                   "id": "d_c6axsyy",
                   "name": "SiN200nm_780nm_TE_STRIP_Grating_Coupler.yaml",
@@ -14180,17 +13613,6 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_x130otv",
-                  "name": "SiN200nm_780nm_TE_STRIP_Splitter5050.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": "",
-                  "_stripped": true
-                },
-                {
                   "id": "d_utpulei",
                   "name": "SiN200nm_780nm_TE_STRIP_Splitter5050.yaml",
                   "filename": "SiN200nm_780nm_TE_STRIP_Splitter5050.yaml",
@@ -14251,16 +13673,6 @@
               "testGroups": [],
               "documents": [
                 {
-                  "id": "d_e1uia39",
-                  "name": "SiN200nm_780nm_TE_STRIP_Waveguide.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
-                {
                   "id": "d_17gyn9f",
                   "name": "SiN200nm_780nm_TE_STRIP_Waveguide.yaml",
                   "filename": "SiN200nm_780nm_TE_STRIP_Waveguide.yaml",
@@ -14317,7 +13729,8 @@
           "collapsed": false,
           "width": 412,
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/SiN_200nm",
-          "githubSubdir": "components"
+          "githubSubdir": "components",
+          "platformDocs": []
         },
         {
           "id": "g_vvvd0yo",
@@ -14350,32 +13763,6 @@
                   "who": "",
                   "added": "2026-05-26",
                   "rawText": "name: SiN300nm_1310nm_TE_STRIP_2x1_MMI\ncomponent_type: MMI1x2\nauthors:\n- name: CORNERSTONE\n  organisation: CORNERSTONE\nlast_updated: 28/07/2025\nmodes:\n- mode_numbers:\n  - 0\n  - 0\n  polarisation: TE\n  wavelength: 1310\nports:\n  - center:\n    - 0\n    - 0.0\n    name: o1\n    orientation: 180.0\n    port_type: optical\n    cross_section: strip_1310nm\n  - center:\n    - 102.00000\n    - 2.0\n    name: o2\n    orientation: 0.0\n    port_type: optical\n    cross_section: strip_1310nm\n  - center:\n    - 102.00000\n    - -2.0\n    name: o3\n    orientation: 0.0\n    port_type: optical\n    cross_section: strip_1310nm\n\n",
-                  "description": ""
-                },
-                {
-                  "id": "d_gg8eu4j",
-                  "name": "components.md",
-                  "filename": "components.md",
-                  "mime": "text/markdown",
-                  "size": 714,
-                  "binaryContent": "IyBCYXNpYyBjb21wb25lbnRzIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKSGVhdGVyLm1kClNpTjMwMG5tXzEzMTBubV9URV9TVFJJUF8yeDFfTU1JLm1kClNpTjMwMG5tXzEzMTBubV9URV9TVFJJUF8yeDJfTU1JLm1kClNpTjMwMG5tXzEzMTBubV9URV9TVFJJUF85MF9EZWdyZWVfQmVuZC5tZApTaU4zMDBubV8xMzEwbm1fVEVfU1RSSVBfQ3Jvc3NpbmcubWQKU2lOMzAwbm1fMTMxMG5tX1RFX1NUUklQX0dyYXRpbmdfQ291cGxlci5tZApTaU4zMDBubV8xMzEwbm1fVEVfU1RSSVBfV2F2ZWd1aWRlLm1kClNpTjMwMG5tXzE1NTBubV9URV9TVFJJUF8yeDFfTU1JLm1kClNpTjMwMG5tXzE1NTBubV9URV9TVFJJUF8yeDJfTU1JLm1kClNpTjMwMG5tXzE1NTBubV9URV9TVFJJUF85MF9EZWdyZWVfQmVuZC5tZApTaU4zMDBubV8xNTUwbm1fVEVfU1RSSVBfOTBfRGVncmVlX0V1bGVyX0NTQUMubWQKU2lOMzAwbm1fMTU1MG5tX1RFX1NUUklQX0Nyb3NzaW5nLm1kClNpTjMwMG5tXzE1NTBubV9URV9TVFJJUF9Gb2N1c2VkX0dyYXRpbmdfQ291cGxlcl9DU0FDLm1kClNpTjMwMG5tXzE1NTBubV9URV9TVFJJUF9HcmF0aW5nX0NvdXBsZXIubWQKU2lOMzAwbm1fMTU1MG5tX1RFX1NUUklQX0dyYXRpbmdfQ291cGxlcl92MXAyLm1kClNpTjMwMG5tXzE1NTBubV9URV9TVFJJUF9XYXZlZ3VpZGUubWQKYGBg",
-                  "bbType": "mmi",
-                  "who": "",
-                  "added": "2026-05-26",
-                  "rawText": "# Basic components \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nHeater.md\nSiN300nm_1310nm_TE_STRIP_2x1_MMI.md\nSiN300nm_1310nm_TE_STRIP_2x2_MMI.md\nSiN300nm_1310nm_TE_STRIP_90_Degree_Bend.md\nSiN300nm_1310nm_TE_STRIP_Crossing.md\nSiN300nm_1310nm_TE_STRIP_Grating_Coupler.md\nSiN300nm_1310nm_TE_STRIP_Waveguide.md\nSiN300nm_1550nm_TE_STRIP_2x1_MMI.md\nSiN300nm_1550nm_TE_STRIP_2x2_MMI.md\nSiN300nm_1550nm_TE_STRIP_90_Degree_Bend.md\nSiN300nm_1550nm_TE_STRIP_90_Degree_Euler_CSAC.md\nSiN300nm_1550nm_TE_STRIP_Crossing.md\nSiN300nm_1550nm_TE_STRIP_Focused_Grating_Coupler_CSAC.md\nSiN300nm_1550nm_TE_STRIP_Grating_Coupler.md\nSiN300nm_1550nm_TE_STRIP_Grating_Coupler_v1p2.md\nSiN300nm_1550nm_TE_STRIP_Waveguide.md\n```",
-                  "description": ""
-                },
-                {
-                  "id": "d_9valm50",
-                  "name": "ready-made.md",
-                  "filename": "ready-made.md",
-                  "mime": "text/markdown",
-                  "size": 179,
-                  "binaryContent": "IyBSZWFkeS1tYWRlIAoKYGBge3RvY3RyZWV9CjptYXhkZXB0aDogMAo6Y2FwdGlvbjogQ29tcG9uZW50IHJlZmVyZW5jZQoKU2lOMzAwX0NTX090U19NYXJjaF8yMDI1X3YxcDAubWQKU2lOMzAwbm1fMTU1MG5tX1RFX0VkdWNhdGlvbl9LaXQubWQKU2lOMzAwbm1FZHVLaXQrVHluZGFsbFBhY2thZ2luZy5tZApgYGA=",
-                  "bbType": "mmi",
-                  "who": "",
-                  "added": "2026-05-26",
-                  "rawText": "# Ready-made \n\n```{toctree}\n:maxdepth: 0\n:caption: Component reference\n\nSiN300_CS_OtS_March_2025_v1p0.md\nSiN300nm_1550nm_TE_Education_Kit.md\nSiN300nmEduKit+TyndallPackaging.md\n```",
                   "description": ""
                 }
               ],
@@ -15453,7 +14840,8 @@
             "filesFound": 11,
             "urlsEmpty": 0,
             "deadUrls": []
-          }
+          },
+          "platformDocs": []
         },
         {
           "id": "g_5004tbc",
@@ -15477,38 +14865,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_0usfypq",
-                  "name": "Ge_on_Si_3800nm_TE_RIB_90_Degree_Bend.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
-                {
-                  "id": "d_xg3n6nt",
-                  "name": "components.md",
-                  "mime": "text/markdown",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                },
-                {
-                  "id": "d_208gb14",
-                  "name": "ready-made.md",
-                  "mime": "text/markdown",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "bend",
@@ -15556,18 +14913,7 @@
               "scripts": [],
               "datasets": [],
               "testGroups": [],
-              "documents": [
-                {
-                  "id": "d_lbeldx2",
-                  "name": "Ge_on_Si_3800nm_TE_RIB_Waveguide.yaml",
-                  "mime": "application/yaml",
-                  "bbType": "waveguide",
-                  "who": "admin",
-                  "added": "2026-05-25",
-                  "filename": "",
-                  "description": ""
-                }
-              ],
+              "documents": [],
               "updated": "2026-05-25",
               "kind": "passive",
               "bbType": "waveguide",
@@ -15606,7 +14952,8 @@
           ],
           "githubUrl": "https://github.com/drinwater/cornerstone-community/tree/main/Ge_on_Si",
           "githubSubdir": "components",
-          "width": 404
+          "width": 404,
+          "platformDocs": []
         },
         {
           "id": "g_vr16oen",
@@ -15619,7 +14966,8 @@
           "status": "",
           "kind": "",
           "collapsed": false,
-          "width": 413
+          "width": 413,
+          "platformDocs": []
         }
       ],
       "kind": "platforms"
@@ -15760,7 +15108,8 @@
                   "bbType": "",
                   "who": "admin",
                   "added": "2026-05-31",
-                  "_stripped": true
+                  "_stripped": true,
+                  "description": ""
                 }
               ],
               "updated": "2026-05-31",
@@ -15777,7 +15126,15 @@
               "fabTabs": [],
               "_docVersion": "",
               "plannedReleaseDate": "",
-              "trl": null
+              "trl": null,
+              "smatrixGroups": [],
+              "customSketchUrl": "",
+              "customSketchName": "",
+              "layoutScaleUmPerPx": 0,
+              "subBlocks": [],
+              "expanded": false,
+              "fetchHistory": [],
+              "edaLinks": []
             }
           ],
           "githubUrl": "https://github.com/cornerstone-uos/cornerstone-community/tree/main/Si_220nm_active/manuals",
@@ -16106,7 +15463,7 @@
       "addedAt": "2026-05-30T18:34:10.172Z"
     }
   ],
-  "exportedAt": "2026-05-30T03:15:28.378Z",
+  "exportedAt": "2026-05-31T23:07:09.783Z",
   "benchmarkMetrics": [
     {
       "id": "bm_prop_loss",
@@ -16416,7 +15773,7 @@
   "distribution": {
     "sources": [
       {
-        "id": "s_mpub7058_0",
+        "id": "s_mpue0pxr_0",
         "label": "CORNERSTONE main (Open-source PDK)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -16424,7 +15781,7 @@
         "enabled": true
       },
       {
-        "id": "s_mpub7059_1",
+        "id": "s_mpue0pxr_1",
         "label": "User-admin contributions (auto-discover)",
         "repo": "cornerstone-uos/PDKMonitor",
         "branch": "main",
@@ -16432,7 +15789,7 @@
         "enabled": false
       },
       {
-        "id": "s_mpub7059_2",
+        "id": "s_mpue0pxr_2",
         "label": "CORNERSTONE community PDK (publish target)",
         "repo": "cornerstone-uos/cornerstone-community",
         "branch": "main",
@@ -16444,8 +15801,8 @@
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-05-31T21:46:17.239Z",
-    "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
+    "lastFetchedAt": "2026-05-31T23:06:50.278Z",
+    "lastFetchedSha": "ac78fc16ec88f2f4cf06a1fcca50ecaa407859c3",
     "lastPublishedAt": "2026-05-31T21:32:32.665Z",
     "lastPublishedSha": "5b6bca0da4f132ab8d3af538da4a8b0437e3ad24",
     "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/5b6bca0da4f132ab8d3af538da4a8b0437e3ad24",
@@ -16550,7 +15907,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-05-31T21:56:27.661Z",
+    "publishedAt": "2026-05-31T23:19:39.395Z",
     "publisherIdentity": "dashboard_admin",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
@@ -16575,6 +15932,16 @@
       "role": "admin",
       "action": "import-replace",
       "label": "pdk-monitor-pre-adopt-2026-05-31 (10).json",
+      "meta": {
+        "tabs": 4
+      }
+    },
+    {
+      "at": "2026-05-31T23:07:28.237Z",
+      "by": "anonymous",
+      "role": "read-only",
+      "action": "import-replace",
+      "label": "pdk-monitor-backup-v1-0-2-2026-05-31.json",
       "meta": {
         "tabs": 4
       }
