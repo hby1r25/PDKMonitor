@@ -23837,9 +23837,9 @@
     "path": "OpenSource_PDKMonitor/dashboard_backup_02_june.json",
     "lastFetchedAt": "2026-06-02T00:12:32.949Z",
     "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
-    "lastPublishedAt": "2026-06-02T00:19:51.083Z",
-    "lastPublishedSha": "a4f5f74f253aa318969be255723bfc0ae314a781",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/a4f5f74f253aa318969be255723bfc0ae314a781",
+    "lastPublishedAt": "2026-06-02T00:21:43.050Z",
+    "lastPublishedSha": "53d530edeee12f07c4052cc5b694440e81cc1873",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/53d530edeee12f07c4052cc5b694440e81cc1873",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -23935,7 +23935,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-02T00:21:43.050Z",
+    "publishedAt": "2026-06-02T00:21:54.176Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "Dashboard Admin",
     "publisherRole": "admin",
