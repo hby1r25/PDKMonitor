@@ -10524,7 +10524,8 @@
     "t_ney0hdj": "admin",
     "t_3kmvck2": "admin",
     "t_vvtmgul": "admin",
-    "t_tdkmulq": "admin"
+    "t_tdkmulq": "admin",
+    "tab_76j32ta": "admin"
   },
   "labels": {
     "https://github.com/AEmreKaplan/": "CS_Emre",
@@ -19587,6 +19588,12 @@
       "name": "DOCs",
       "groups": [],
       "kind": "docs"
+    },
+    {
+      "id": "tab_76j32ta",
+      "name": "Other Plarforms (academic)",
+      "groups": [],
+      "kind": "platforms"
     }
   ],
   "sketchLibrary": [],
@@ -20241,18 +20248,18 @@
         "repo": "AEmreKaplan/PDKMonitor",
         "branch": "main",
         "path": "users/AEmreKaplan/dashboard.json",
-        "enabled": false
+        "enabled": true
       }
     ],
     "_defaultsSeeded": true,
     "repo": "cornerstone-uos/PDKMonitor",
     "branch": "main",
     "path": "OpenSource_PDKMonitor/dashboard.json",
-    "lastFetchedAt": "2026-06-04T00:15:55.326Z",
-    "lastFetchedSha": "4e36117c61f47982a8e9160e8cb96a45b6fead9f",
-    "lastPublishedAt": "2026-06-04T00:14:56.206Z",
-    "lastPublishedSha": "de86e74615c8fb0e1ec3c8e9e47fde12a359012f",
-    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/de86e74615c8fb0e1ec3c8e9e47fde12a359012f",
+    "lastFetchedAt": "2026-06-04T00:18:47.370Z",
+    "lastFetchedSha": "303b6321f8c46870998da21973a8303286c22ae4",
+    "lastPublishedAt": "2026-06-04T00:17:53.975Z",
+    "lastPublishedSha": "2b92c62f0bac9f892f5209fa3604ae1802609817",
+    "lastPublishedUrl": "https://github.com/cornerstone-uos/PDKMonitor/commit/2b92c62f0bac9f892f5209fa3604ae1802609817",
     "lastMergeStats": {
       "tabs": 0,
       "groups": 0,
@@ -20263,17 +20270,18 @@
       "statuses": 0,
       "categories": 0,
       "bbTypes": 0,
-      "infoSkipped": 0,
+      "infoSkipped": 12,
       "files": 0,
       "scripts": 0,
       "documents": 0,
       "tg": 0,
       "sm": 0,
-      "fab": 0
+      "fab": 0,
+      "skippedEmptyGroups": 4
     },
     "lastSecurityStats": {
       "guestsAdded": 0,
-      "guestsKept": 5,
+      "guestsKept": 6,
       "contactEmailUpdated": false,
       "labelsAdded": 0
     }
@@ -20363,7 +20371,7 @@
     "note": "Bundled credentials so user-admins can sign in after adopting this dashboard. The full Admin password is not shared and stays local on each machine."
   },
   "_distribution": {
-    "publishedAt": "2026-06-04T00:17:53.975Z",
+    "publishedAt": "2026-06-04T00:23:27.492Z",
     "publisherIdentity": "AEmreKaplan",
     "publisherLabel": "AEmreKaplan",
     "publisherRole": "admin",
@@ -20460,6 +20468,16 @@
       "label": "EPIXFAB MPW RUN",
       "meta": {
         "id": "tab_7a1gc2u"
+      }
+    },
+    {
+      "at": "2026-06-04T00:22:06.459Z",
+      "by": "AEmreKaplan",
+      "role": "admin",
+      "action": "tab-rename",
+      "label": "Other Plarforms (Public domain/academic) → Other Plarforms (academic)",
+      "meta": {
+        "id": "tab_76j32ta"
       }
     }
   ],
